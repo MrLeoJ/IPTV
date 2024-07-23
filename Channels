@@ -70,11 +70,11 @@ https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 
 # BBC One
 #EXTINF:-1 tvg-logo="https://bit.ly/47NKUE2" group-title="Lifestyle", BBC One
-https://tinyurl.com/4rretufz
+http://92.114.85.81:8000/play/a001/index.m3u8
 
 # BBC Two
 #EXTINF:-1 tvg-logo="https://bit.ly/3Tjq1Nh" group-title="Lifestyle", BBC Two
-https://tinyurl.com/29jcdk4a
+http://92.114.85.81:8000/play/a011/index.m3u8
 
 # BBC Three
 #EXTINF:-1 tvg-logo="https://bit.ly/3uAVrUO" group-title="Lifestyle", BBC Three
@@ -86,11 +86,11 @@ https://tinyurl.com/2akru22z
 
 # ITV 1
 #EXTINF:-1 tvg-logo="https://bit.ly/3PnMViz" group-title="Lifestyle", ITV 1
-https://tinyurl.com/2sxar6zc
+http://92.114.85.81:8000/play/a00y/index.m3u8
 
 # ITV 2
 #EXTINF:-1 tvg-logo="https://bit.ly/3sYDLBO" group-title="Lifestyle", ITV 2
-https://tinyurl.com/u5uvruh3
+http://92.114.85.77:8000/play/a041
 
 # ITV 3
 #EXTINF:-1 tvg-logo="https://bit.ly/3PkQINQ" group-title="Lifestyle", ITV 3
