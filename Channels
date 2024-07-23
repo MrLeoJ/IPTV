@@ -1,0 +1,133 @@
+#EXTM3U
+
+# BBC News
+#EXTINF:-1 tvg-logo="https://bit.ly/45FcYIt" group-title="News",BBC News
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
+# Sky News
+#EXTINF:-1 tvg-logo="https://bit.ly/3HrdmyZ" group-title="News",Sky News
+https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+
+# GB News
+#EXTINF:-1 tvg-logo="https://bit.ly/3GY8vaN" group-title="News",GB News
+https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
+
+# GB News
+#EXTINF:-1 tvg-logo="https://bit.ly/3GY8vaN" group-title="News",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+# Talk TV
+#EXTINF:-1 tvg-logo="https://bit.ly/3PpZHyv" group-title="News",Talk TV
+https://tinyurl.com/3j2jvd2x
+
+# EuroNews
+#EXTINF:-1 tvg-logo="https://bit.ly/3shQjjy" group-title="News",Euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+# Reuters
+#EXTINF:-1 tvg-logo="https://bit.ly/3J2XWBa" group-title="News",Reuters
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+# DW News
+#EXTINF:-1 tvg-logo="https://bit.ly/3Pdo95w" group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+# Al Jazeera
+#EXTINF:-1 tvg-logo="https://bit.ly/3gCDECF" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+# RT News
+#EXTINF:-1 tvg-logo="https://bit.ly/3omaoEo" group-title="News",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+# FINANCE ----------------------------------------------------------------------------------------------------------------------------------
+
+# Bloomberg TV | Europe
+#EXTINF:-1 tvg-logo="https://bit.ly/3uURtqc" group-title="Finance",Bloomberg TV | ᴇᴜʀᴏᴘᴇ
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+# Bloomberg TV | USA
+#EXTINF:-1 tvg-logo="https://bit.ly/4allJea" group-title="Finance",Bloomberg TV | ᴜꜱᴀ
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+# Bloomberg TV+
+#EXTINF:-1 tvg-logo="https://bit.ly/3NvDL3o" group-title="Finance",Bloomberg TV+
+https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
+
+# CNBC
+#EXTINF:-1 tvg-logo="https://bit.ly/470x8xg" group-title="Finance",CNBC
+http://92.114.85.77:8000/play/a0b6
+
+# Yahoo! Finance
+#EXTINF:-1 tvg-logo="https://bit.ly/34cJtnz" group-title="Finance",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+# Bloomberg Originals
+#EXTINF:-1 tvg-logo="https://bit.ly/461HVaw" group-title="Finance",Bloomberg Originals
+https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+
+# LIFESTYLE ----------------------------------------------------------------------------------------------------------------------------------
+
+# BBC One
+#EXTINF:-1 tvg-logo="https://bit.ly/47NKUE2" group-title="Lifestyle", BBC One
+https://tinyurl.com/4rretufz
+
+# BBC Two
+#EXTINF:-1 tvg-logo="https://bit.ly/3Tjq1Nh" group-title="Lifestyle", BBC Two
+https://tinyurl.com/29jcdk4a
+
+# BBC Three
+#EXTINF:-1 tvg-logo="https://bit.ly/3uAVrUO" group-title="Lifestyle", BBC Three
+https://tinyurl.com/bdhzye8z
+
+# BBC Four
+#EXTINF:-1 tvg-logo="https://bit.ly/3SWV29t" group-title="Lifestyle", BBC Four
+https://tinyurl.com/2akru22z
+
+# ITV 1
+#EXTINF:-1 tvg-logo="https://bit.ly/3PnMViz" group-title="Lifestyle", ITV 1
+https://tinyurl.com/2sxar6zc
+
+# ITV 2
+#EXTINF:-1 tvg-logo="https://bit.ly/3sYDLBO" group-title="Lifestyle", ITV 2
+https://tinyurl.com/u5uvruh3
+
+# ITV 3
+#EXTINF:-1 tvg-logo="https://bit.ly/3PkQINQ" group-title="Lifestyle", ITV 3
+http://92.114.85.77:8000/play/a04z
+
+# ITV 4
+#EXTINF:-1 tvg-logo="https://bit.ly/46jyS4J" group-title="Lifestyle", ITV 4
+http://92.114.85.77:8000/play/a05z
+
+# Channel 4 
+#EXTINF:-1 tvg-logo="https://bit.ly/4a7Teka" group-title="Lifestyle", Channel 4
+http://92.114.85.77:8000/play/a0b9
+
+# More 4
+#EXTINF:-1 tvg-logo="https://bit.ly/3rqCWRE" group-title="Lifestyle", More 4
+http://92.114.85.81:8000/play/a03p/index.m3u8
+
+# E4
+#EXTINF:-1 tvg-logo="https://bit.ly/3Gi1xw7" group-title="Lifestyle", E4
+http://92.114.85.81:8000/play/a02c/index.m3u8
+
+# E4 Extra
+#EXTINF:-1 tvg-logo="https://bit.ly/3uGR8qY" group-title="Lifestyle", E4 Extra
+http://92.114.85.81:8000/play/a03r/index.m3u8
+
+# Channel 5
+#EXTINF:-1 tvg-logo="https://bit.ly/3t4pwv5" group-title="Lifestyle", Channel 5
+http://92.114.85.81:8000/play/a01g/index.m3u8
+
+# Dave
+#EXTINF:-1 tvg-logo="https://bit.ly/46jFhgh" group-title="Lifestyle", Dave
+http://92.114.85.81:8000/play/a044/index.m3u8
+
+# Travel XP
+#EXTINF:-1 tvg-logo="https://bit.ly/3VVy3cs" group-title="Lifestyle",Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+# TEMPORARY -------------------------------------------------------------------------------------------------------------------------------------
+
+
