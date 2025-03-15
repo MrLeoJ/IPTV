@@ -1,69 +1,335 @@
 #EXTM3U
 
-# ---- GENERAL ----
+# ---- General ----
 
-# BBC One
-#EXTINF:-1 tvg-id="uk.BBC1 London" tvg-name="UK| BBC ONE LONDON" tvg-logo="https://i.postimg.cc/K8nRDD6d/BBC-One.png" group-title="GENERAL",BBC One
+#EXTINF:-1 tvg-id="uk.BBC1 London" tvg-name="UK| BBC ONE LONDON" tvg-logo="https://i.postimg.cc/K8nRDD6d/BBC-One.png" group-title="General",BBC One
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1458572
 
-# BBC Two
-#EXTINF:-1 tvg-id="uk.BBC2 N Ireland" tvg-name="UK| BBC TWO HD" tvg-logo="https://i.postimg.cc/k45G932m/BBC-Two.png" group-title="GENERAL",BBC Two
+#EXTINF:-1 tvg-id="uk.BBC2 N Ireland" tvg-name="UK| BBC TWO HD" tvg-logo="https://i.postimg.cc/k45G932m/BBC-Two.png" group-title="General",BBC Two
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111559
 
-# BBC Three
-#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK| BBC 3 / CBBC HD" tvg-logo="https://i.postimg.cc/6QtTjGwT/BBC-Three.jpg" group-title="GENERAL",BBC Three
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK| BBC 3 / CBBC HD" tvg-logo="https://i.postimg.cc/6QtTjGwT/BBC-Three.jpg" group-title="General",BBC Three
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45336
 
-# BBC Four
-#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK| BBC 4 / CBEEBIES HD" tvg-logo="https://i.postimg.cc/0NnjL22n/BBC-Four.jpg" group-title="GENERAL",BBC Four
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK| BBC 4 / CBEEBIES HD" tvg-logo="https://i.postimg.cc/0NnjL22n/BBC-Four.jpg" group-title="General",BBC Four
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45335
 
-# ITV 1
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK| ITV 1 HD" tvg-logo="https://i.postimg.cc/dQyqVVSt/itv1.jpg" group-title="GENERAL",ITV 1
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK| ITV 1 HD" tvg-logo="https://i.postimg.cc/dQyqVVSt/itv1.jpg" group-title="General",ITV 1
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30533
 
-# ITV 2
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK| ITV 2 HD" tvg-logo="https://i.postimg.cc/76Cq7HH9/itv2.jpg" group-title="GENERAL",ITV 2
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK| ITV 2 HD" tvg-logo="https://i.postimg.cc/76Cq7HH9/itv2.jpg" group-title="General",ITV 2
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30532
 
-# ITV 3
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK| ITV 3 HD" tvg-logo="https://i.postimg.cc/zB98Fs3r/itv3.jpg" group-title="GENERAL",ITV 3
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK| ITV 3 HD" tvg-logo="https://i.postimg.cc/zB98Fs3r/itv3.jpg" group-title="General",ITV 3
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30531
 
-# ITV 4
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK| ITV 4 HD" tvg-logo="https://i.postimg.cc/Hs0dbPgq/itv4.jpg" group-title="GENERAL",ITV 4
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK| ITV 4 HD" tvg-logo="https://i.postimg.cc/Hs0dbPgq/itv4.jpg" group-title="General",ITV 4
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30530
 
-# Channel 4
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK| CHANNEL 4 FHD" tvg-logo="https://i.postimg.cc/dQbHxGNq/Channel-4.jpg" group-title="GENERAL",Channel 4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK| CHANNEL 4 FHD" tvg-logo="https://i.postimg.cc/dQbHxGNq/Channel-4.jpg" group-title="General",Channel 4
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30555
 
-# Channel 5
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK| CHANNEL 5 FHD" tvg-logo="https://i.postimg.cc/MGLbj8hW/Channel-5.jpg" group-title="GENERAL",Channel 5
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK| MORE 4 FHD" tvg-logo="https://i.postimg.cc/nLRhF4NX/More-4.jpg" group-title="General",More 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30528
+
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK| CHANNEL 5 FHD" tvg-logo="https://i.postimg.cc/MGLbj8hW/Channel-5.jpg" group-title="General",Channel 5
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30554
 
-# E4
-#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK| E4 FHD" tvg-logo="https://i.postimg.cc/3xmHqKFq/E4.jpg" group-title="GENERAL",E4
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK| E4 FHD" tvg-logo="https://i.postimg.cc/3xmHqKFq/E4.jpg" group-title="General",E4
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30545
 
-# Alibi
-#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK| ALIBI FHD" tvg-logo="https://i.postimg.cc/pLDgZs2b/Alibi.png" group-title="GENERAL",Alibi 
+#EXTINF:-1 tvg-id="" tvg-name="UK| E4 EXTRA" tvg-logo="https://i.postimg.cc/cC2B3tjh/E4.jpg" group-title="General",E4 Extra
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014314
+
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="UK| LONDON LIVE" tvg-logo="https://i.postimg.cc/tCSYqw2X/London_Live.jpg" group-title="General",London Live
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111563
+
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK| ALIBI FHD" tvg-logo="https://i.postimg.cc/pLDgZs2b/Alibi.png" group-title="General",Alibi 
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30584
+
+#EXTINF:-1 tvg-id="UandDave.uk" tvg-name="UK| DAVE FHD" tvg-logo="https://i.postimg.cc/J0jwBD5L/Dave.jpg" group-title="General",Dave
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30550
+
+#EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="UK| DAVE JA VU" tvg-logo="https://i.postimg.cc/sXkdX9Sm/Dave-Ja-Vu.jpg" group-title="General",Dave Ja Vu
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014227
+
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="UK| CHALLENGE" tvg-logo="https://i.postimg.cc/xCHjg7TL/Challenge.jpg" group-title="General",Challenge
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/228565
+
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK| COMEDY CENTRAL FHD" tvg-logo="https://i.postimg.cc/qq3MRvFf/Comedy-Central.png" group-title="General",Comedy Central
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30552
+
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="UK| E! ENTERTAINMENT HD" tvg-logo="https://i.postimg.cc/t422zKyf/e.jpg" group-title="General",E!
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45278
 
 # ---- NEWS ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# BBC News
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC NEWS HD" tvg-logo="https://i.postimg.cc/76Q6ZszT/BBC-News.png" group-title="News",BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC News HD" tvg-logo="https://i.postimg.cc/76Q6ZszT/BBC-News.png" group-title="News",BBC News
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45331
 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC NEWS HD" tvg-logo="http://103.176.90.118/picons/logos/UK/BBC-ONE.png" group-title="UK| NEWS",UK| BBC NEWS HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/75865
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK| SKY News FHD" tvg-logo="https://i.postimg.cc/qRrh308K/Sky-News.jpg" group-title="News",Sky News
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1081655
+
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="UK| GB News FHD" tvg-logo="https://i.postimg.cc/1t60xsQ7/GB_News.png" group-title="News",GB News
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/622483
+
+TalkTV.uk" tvg-name="UK| TALK TV FHD" tvg-logo="https://i.postimg.cc/vm4Lz5Ss/Talk_TV.jpg" group-title="News",Talk TV
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/919226
+
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="UK| TALK TV HD" tvg-logo="https://i.postimg.cc/vm4Lz5Ss/Talk_TV.jpg" group-title="News",Talk TV
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/919227
+
+#EXTINF:-1 tvg-id="uk.EuroNews" tvg-name="UK| EURONews EN HD" tvg-logo="https://i.postimg.cc/t4CzsK37/Euro_News.jpg" group-title="News",EuroNews
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/459631
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="UK| AL JAZEERA EN HD" tvg-logo="https://i.postimg.cc/Y9mRpQ13/Al-Jazeera.jpg" group-title="News",Al Jazeera
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/229460
+
+#EXTINF:-1 tvg-id="uk.CNN" tvg-name="UK| CNN FHD" tvg-logo="https://i.postimg.cc/kXCsm6DQ/CNN.png" group-title="News",CNN
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30553
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| RTE News NOW" tvg-logo="https://i.postimg.cc/XvtKDXTy/RTE_News.jpg" group-title="News",RTE News
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014206
+
+
+
+
+
+
 
 
 # ---- SPORTS ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# SKY SPORTS
-#EXTINF:-1 tvg-id="uk.Sky Sports Main Event" tvg-name="4K| SKY SPORTS MAIN EVENTS UHD" tvg-logo="http://103.176.90.118/piconsnew/skysportsmainevent.png" group-title="4K UHD 3840P",4K| SKY SPORTS MAIN EVENTS UHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1608071
+#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS ESPN HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports ESPN
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79483
+
+#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79486
+
+#EXTINF:-1 tvg-id="TNTSports1 HD.uk" tvg-name="UK| TNT SPORTS 1 HD ◉" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 1 ◉
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1261564
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="UK| TNT SPORTS 2 HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79485
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="UK| TNT SPORTS 3 HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79484
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-name="UK| TNT SPORTS 4 HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1002857
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004549
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Main Event
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83450
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HD(BK)" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Main Event
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1448189
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS MAIN EVENT UHD/4K" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Main Event
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1641636
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS DARTS UHD/4K" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| Sky Sports Darts
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1641637
+
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PL HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Premier League
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83447
+
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Football
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83452
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports News
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83448
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK|SKY SPORTS ACTION HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Action
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83456
+
+#EXTINF:-1 tvg-id="uk.Sky Sports Arena" tvg-name="UK| SKY SPORTS ARENA HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Arena
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83455
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Cricket
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83454
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS DARTS HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS DARTS HD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83453
+
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Mix
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83449
+
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Racing
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83446
+
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Golf
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83451
+
+#EXTINF:-1 tvg-id="Sky Sports Tennis HD.uk" tvg-name="UK| SKY SPOIRTS TENNIS HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Tennis
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1454231
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT BOX OFFICE HD" tvg-logo="https://i.postimg.cc/tJwxSc1t/BT_Sport.jpg" group-title="Sports",BT Box Office
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1019934
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| DAZN 1 HD" tvg-logo="https://i.postimg.cc/GtHDjRpm/DAZN.jpg" group-title="Sports",DAZN 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1221178
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| MANCHESTER UNITED HD" tvg-logo="https://i.postimg.cc/vHx9gGjP/MUTV.jpg" group-title="Sports",Manchester United TV
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/725954
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| CHELSEA TV HD" tvg-logo="https://i.postimg.cc/TP0WM1LP/Chelsea_TV.jpg" group-title="Sports",Chelsea TV
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45327
+
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK| LFC TV FHD" tvg-logo="https://i.postimg.cc/CMQkxRvB/LFC_TV.jpg" group-title="Sports",LFC TV
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/910647
+
+#EXTINF:-1 tvg-id="uk.425 LFCTV HD" tvg-name="UK| LFC TV" tvg-logo="https://i.postimg.cc/CMQkxRvB/LFC_TV.jpg" group-title="Sports",LFC TV
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45268
+
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK| MUTV FHD" tvg-logo="https://i.postimg.cc/vHx9gGjP/MUTV.jpg" group-title="Sports",MUTV FHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45324
+
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK| EUROSPORT 1 HD" tvg-logo="https://i.postimg.cc/xCdN0QM3/Euro-Sport.png" group-title="Sports",EuroSport 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/547746
+
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK| EUROSPORT 2 HD" tvg-logo="https://i.postimg.cc/xCdN0QM3/Euro-Sport.png" group-title="Sports",EuroSport 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/547747
+
+#EXTINF:-1 tvg-id="LaLiga.uk" tvg-name="UK| PREMIER SPORT LALIGA TV HD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",ViaPlay Premier Sports La Liga
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/163610
+
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK| PREMIER SPORTS 1 HD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",ViaPlay Premier Sports 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45235
+
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| PREMIER SPORT 2 HD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",ViaPlay Premier Sports 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/163608
+
+
+
+
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/230681
+#EXTINF:-1 tvg-id="BTSportUltimate.uk" tvg-name="UK| TNT ULTIMATE 4K+ [LIVE-EVENT]" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Ultimate [LIVE]
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1379047
+#EXTINF:-1 tvg-id="" tvg-name="UK| TNT BOX OFFICE FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Box Office
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1019933
+#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS ESPN FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports ESPN
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30564
+#EXTINF:-1 tvg-id="TNT Sports 1.uk" tvg-name="UK| TNT SPORTS 1 FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30567
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="UK| TNT SPORTS 2 FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30566
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="UK| TNT SPORTS 3 FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30565
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-name="UK| TNT SPORTS 4 FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1019935
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004548
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Main Event
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30496
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PL FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Premier League
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30493
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Football
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30498
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK| SKY SPORTS ACTION FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Action
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30501
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS ARENA FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Arena
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30500
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Cricket
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30502
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS DARTS FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Darts
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30499
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Golf
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30497
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Mix
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30495
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports News
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30494
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Racing
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/77373
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPOIRTS TENNIS FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Tennis
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1454232
+
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/230683
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS MAIN EVENT
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79476
+#EXTINF:-1 tvg-id="uk.Sky Sports Premier League" tvg-name="UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS PREMIER LEAGUE FHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79473
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK| SKY SPORTS ACTION" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS ACTION
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79482
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS ARENA" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS ARENA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79481
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS CRICKET
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79480
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS DARTS" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS DARTS
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79479
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS FOOTBALL
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79478
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS GOLF
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79477
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS MIX
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79475
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS NEWS
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79474
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS RACING
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79472
+#EXTINF:-1 tvg-id="TNT Sports 1.uk" tvg-name="UK| TNT SPORTS 1 SD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 1 SD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1047260
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="UK| TNT SPORTS 2 SD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 2 SD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1047261
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="UK| TNT SPORTS 3 SD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 3 SD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1047262
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-name="UK| TNT SPORTS 4 SD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 4 SD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1047263
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004550
+#EXTINF:-1 tvg-id="TNT.Sports.6.HD.uk" tvg-name="UK| TNT SPORTS 6" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004551
+#EXTINF:-1 tvg-id="TNT.Sports.7.HD.uk" tvg-name="UK| TNT SPORTS 7" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004552
+#EXTINF:-1 tvg-id="TNT.Sports.8.HD.uk" tvg-name="UK| TNT SPORTS 8" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004553
+#EXTINF:-1 tvg-id="TNT.Sports.9.HD.uk" tvg-name="UK| TNT SPORTS 9" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004554
+#EXTINF:-1 tvg-id="TNT.Sports.10.HD.uk" tvg-name="UK| TNT SPORTS 10" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004555
+#EXTINF:-1 tvg-id="uk.BT Sport X6" tvg-name="UK| BT SPORTS EXTRA 6 HD (RAW)" tvg-logo="https://i.postimg.cc/tJwxSc1t/BT_Sport.jpg" group-title="Sports",UK| BT SPORTS EXTRA 6 HD (RAW)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014265
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS EXTRA 7 HD (RAW)" tvg-logo="https://i.postimg.cc/tJwxSc1t/BT_Sport.jpg" group-title="Sports",UK| BT SPORTS EXTRA 7 HD (RAW)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014264
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS EXTRA 8 HD (RAW)" tvg-logo="https://i.postimg.cc/tJwxSc1t/BT_Sport.jpg" group-title="Sports",UK| BT SPORTS EXTRA 8 HD (RAW)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014263
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS EXTRA 9 HD (RAW)" tvg-logo="https://i.postimg.cc/tJwxSc1t/BT_Sport.jpg" group-title="Sports",UK| BT SPORTS EXTRA 9 HD (RAW)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014262
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK| EUROSPORT 1 FHD" tvg-logo="https://i.postimg.cc/xCdN0QM3/Euro-Sport.png" group-title="Sports",UK| EUROSPORT 1 FHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30541
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK| EUROSPORT 2 FHD" tvg-logo="https://i.postimg.cc/xCdN0QM3/Euro-Sport.png" group-title="Sports",UK| EUROSPORT 2 FHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30540
+#EXTINF:-1 tvg-id="" tvg-name="UK| VIAPLAY XTRA HD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",UK| ViaPlay Extra
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014260
+#EXTINF:-1 tvg-id="" tvg-name="UK| PREMIER SPORT LALIGA TV FHD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",UK| ViaPlay LALIGA TV FHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/163611
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK| PREMIER SPORT 1 FHD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",UK| ViaPlay 1 FHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/163607
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| PREMIER SPORTS 2 FHD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",UK| ViaPlay 2 FHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45251
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| RACING UK FHD" tvg-logo="https://i.postimg.cc/905w5ntW/Racing_UK.jpg" group-title="Sports",UK| RACING UK FHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30523
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| RACING UK ◉" tvg-logo="https://i.postimg.cc/905w5ntW/Racing_UK.jpg" group-title="Sports",UK| RACING UK ◉
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1069214
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| EDGE SPORT FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/EDGE-SPORT.png" group-title="Sports",UK| EDGE SPORT FHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014266
+#EXTINF:-1 tvg-id="" tvg-name="UK| UFC TV (Events2)" tvg-logo="https://i.postimg.cc/rFpR6x5R/UFC.jpg" group-title="Sports",UK| UFC TV (Events2)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014267
+#EXTINF:-1 tvg-id="" tvg-name="UK| UFC HD" tvg-logo="https://i.postimg.cc/rFpR6x5R/UFC.jpg" group-title="Sports",UK| UFC HD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/825538
 
 # ---- FINANCE ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG EU" tvg-logo="https://i.postimg.cc/3wq95tDN/Bloomberg-TV-1.png" group-title="Finance",BLOOMBERG EU
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111540
+
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG HD" tvg-logo="https://i.postimg.cc/6QqzmkqF/Bloomberg-TV-2.png" group-title="Finance",BLOOMBERG
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/49214
+
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK| CNBC" tvg-logo="https://i.postimg.cc/9XZbKtXX/CNBC-2.png" group-title="Finance",CNBC
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/164037
