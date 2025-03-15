@@ -1,0 +1,57 @@
+#EXTM3U
+
+# ---- GENERAL ----
+
+# BBC One
+#EXTINF:-1 tvg-id="uk.BBC1 London" tvg-name="UK| BBC ONE LONDON" tvg-logo="https://i.postimg.cc/K8nRDD6d/BBC-One.png" group-title="GENERAL",BBC One
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/392911
+
+# BBC Two
+#EXTINF:-1 tvg-id="uk.BBC2 N Ireland" tvg-name="UK| BBC TWO HD" tvg-logo="https://i.postimg.cc/k45G932m/BBC-Two.png" group-title="GENERAL",BBC Two
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111559
+
+# BBC Three
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK| BBC 3 / CBBC HD" tvg-logo="https://i.postimg.cc/6QtTjGwT/BBC-Three.jpg" group-title="GENERAL",BBC Three
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45336
+
+# BBC Four
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK| BBC 4 / CBEEBIES HD" tvg-logo="https://i.postimg.cc/0NnjL22n/BBC-Four.jpg" group-title="GENERAL",BBC Four
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45335
+
+# ITV 1
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK| ITV 1 HD" tvg-logo="https://i.postimg.cc/dQyqVVSt/itv1.jpg" group-title="GENERAL",ITV 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30533
+
+# ITV 2
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK| ITV 2 HD" tvg-logo="https://i.postimg.cc/76Cq7HH9/itv2.jpg" group-title="GENERAL",ITV 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30532
+
+# ITV 3
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK| ITV 3 HD" tvg-logo="https://i.postimg.cc/zB98Fs3r/itv3.jpg" group-title="GENERAL",ITV 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30531
+
+# ITV 4
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK| ITV 4 HD" tvg-logo="https://i.postimg.cc/Hs0dbPgq/itv4.jpg" group-title="GENERAL",ITV 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30530
+
+# Channel 4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK| CHANNEL 4 FHD" tvg-logo="https://i.postimg.cc/dQbHxGNq/Channel-4.jpg" group-title="GENERAL",Channel 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30555
+
+# Channel 5
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK| CHANNEL 5 FHD" tvg-logo="https://i.postimg.cc/MGLbj8hW/Channel-5.jpg" group-title="GENERAL",Channel 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30554
+
+# E4
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK| E4 FHD" tvg-logo="https://i.postimg.cc/3xmHqKFq/E4.jpg" group-title="GENERAL",E4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30545
+
+# Alibi
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK| ALIBI FHD" tvg-logo="https://i.postimg.cc/pLDgZs2b/Alibi.png" group-title="GENERAL",Alibi 
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30584
+
+# ---- ADULTS ----
+
+# Dorcel
+#EXTINF:-1 tvg-id="" tvg-name="XXX - DORCEL FHD" tvg-logo="https://i.postimg.cc/sDPMpcdb/Dorcel.png" group-title="XXX",DORCEL
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/777819
