@@ -4,7 +4,7 @@
 
 # BBC One
 #EXTINF:-1 tvg-id="uk.BBC1 London" tvg-name="UK| BBC ONE LONDON" tvg-logo="https://i.postimg.cc/K8nRDD6d/BBC-One.png" group-title="GENERAL",BBC One
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/229486
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1458572
 
 # BBC Two
 #EXTINF:-1 tvg-id="uk.BBC2 N Ireland" tvg-name="UK| BBC TWO HD" tvg-logo="https://i.postimg.cc/k45G932m/BBC-Two.png" group-title="GENERAL",BBC Two
@@ -50,7 +50,22 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30545
 #EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK| ALIBI FHD" tvg-logo="https://i.postimg.cc/pLDgZs2b/Alibi.png" group-title="GENERAL",Alibi 
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30584
 
-# ---- ADULTS ----
+# ---- NEWS ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC NEWS HEVC FHD" tvg-logo="https://i.postimg.cc/76Q6ZszT/BBC-News.png" group-title="News",BBC News
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1458580
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC NEWS HD" tvg-logo="https://i.postimg.cc/76Q6ZszT/BBC-News.png" group-title="NEWS",BBC News 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45331
+
+# ---- SPORTS ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# SKY SPORTS
+#EXTINF:-1 tvg-id="uk.Sky Sports Main Event" tvg-name="4K| SKY SPORTS MAIN EVENTS UHD" tvg-logo="http://103.176.90.118/piconsnew/skysportsmainevent.png" group-title="4K UHD 3840P",4K| SKY SPORTS MAIN EVENTS UHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1608071
+
+# ---- ADULTS ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Dorcel
 #EXTINF:-1 tvg-id="" tvg-name="XXX - DORCEL FHD" tvg-logo="https://i.postimg.cc/sDPMpcdb/Dorcel.png" group-title="XXX",DORCEL
