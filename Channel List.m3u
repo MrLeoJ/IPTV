@@ -91,237 +91,162 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30553
 #EXTINF:-1 tvg-id="" tvg-name="UK| RTE News NOW" tvg-logo="https://i.postimg.cc/XvtKDXTy/RTE_News.jpg" group-title="News",RTE News
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014206
 
+# ---- England | Premier League -----------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="ARSENAL" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-ARSENAL.png" group-title="Premier League",ARSENAL
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988368
+#EXTINF:-1 tvg-id="" tvg-name="ASTON VILLA" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-ASTON-VILLA.png" group-title="Premier League",ASTON VILLA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988367
+#EXTINF:-1 tvg-id="" tvg-name="AFC BOURNEMOUTH" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-AFC-BOURNEMOUTH.png" group-title="Premier League",AFC BOURNEMOUTH
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988366
+#EXTINF:-1 tvg-id="" tvg-name="LEICESTER" tvg-logo="http://51.158.145.100/picons/logos/UK/EPL-LEICESTER.png" group-title="Premier League",LEICESTER
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1715253
+#EXTINF:-1 tvg-id="" tvg-name="BRENTFORD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-BRENTFORD.png" group-title="Premier League",BRENTFORD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988365
+#EXTINF:-1 tvg-id="" tvg-name="BRIGHTON" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-BRIGHTON.png" group-title="Premier League",BRIGHTON
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988364
+#EXTINF:-1 tvg-id="" tvg-name="CHELSEA" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-CHELSEA.png" group-title="Premier League",CHELSEA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988363
+#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL PALACE" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-CRYSTAL-PALACE.png" group-title="Premier League",CRYSTAL PALACE
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988362
+#EXTINF:-1 tvg-id="" tvg-name="FULHAM" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-FULHAM.png" group-title="Premier League",FULHAM
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988360
+#EXTINF:-1 tvg-id="" tvg-name="WOLVERHAMPTON WANDERERS" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-WOLVERGAMPTON-WANDERERS.png" group-title="Premier League",WOLVERHAMPTON WANDERERS
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988350
+#EXTINF:-1 tvg-id="" tvg-name="EVERTON" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-EVERTON.png" group-title="Premier League",EVERTON
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988361
+#EXTINF:-1 tvg-id="" tvg-name="BURNLEY" tvg-logo="http://103.176.90.118/picons/logos/BURNLEY-FC.png" group-title="Premier League",BURNLEY
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988359
+#EXTINF:-1 tvg-id="" tvg-name="LIVERPOOL" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-LIVERPOOL.png" group-title="Premier League",LIVERPOOL
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988358
+#EXTINF:-1 tvg-id="" tvg-name="MANCHESTER CITY" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-MANCHESTER-CITY.png" group-title="Premier League",MANCHESTER CITY
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988357
+#EXTINF:-1 tvg-id="" tvg-name="MANCHESTER UTD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-MANCHESTER-UTD.png" group-title="Premier League",MANCHESTER UTD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988356
+#EXTINF:-1 tvg-id="" tvg-name="NEWCASTLE UTD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-NEWCASTLE-UTD.png" group-title="Premier League",NEWCASTLE UTD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988355
+#EXTINF:-1 tvg-id="" tvg-name="NOTTINGHAM FOREST" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-NOTTINGHAM-FOREST.png" group-title="Premier League",NOTTINGHAM FOREST
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988354
+#EXTINF:-1 tvg-id="" tvg-name="SHEFFIEID UTD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-SHEFFIEID.png" group-title="Premier League",SHEFFIEID UTD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988353
+#EXTINF:-1 tvg-id="" tvg-name="SOUTHAMPTON" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-SOUTHAMPTON.png" group-title="Premier League",SOUTHAMPTON
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1505600
+#EXTINF:-1 tvg-id="" tvg-name="TOTTENHAM" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-TOTTENHAM.png" group-title="Premier League",TOTTENHAM
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988352
+#EXTINF:-1 tvg-id="" tvg-name="WEST HAM" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-WEST-HAM.png" group-title="Premier League",WEST HAM
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988351
+#EXTINF:-1 tvg-id="" tvg-name="LUTON" tvg-logo="http://103.176.90.118/picons/logos/UK/Luton-Town.png" group-title="Premier League",LUTON
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988349
+
+# ---- Spain | La Liga --------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="ALAVES" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ALAVES.png" group-title="La Liga",ALAVES
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395530
+#EXTINF:-1 tvg-id="" tvg-name="ALMERÍA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ALMER%c3%8dA.png" group-title="La Liga",ALMERÍA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395529
+#EXTINF:-1 tvg-id="" tvg-name="ATHLETIC BILBAO" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ATHLETIC-BILBAO.png" group-title="La Liga",ATHLETIC BILBAO
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395528
+#EXTINF:-1 tvg-id="" tvg-name="ATLETICO MADRID" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ATLETICO-MADRID.png" group-title="La Liga",ATLETICO MADRID
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395527
+#EXTINF:-1 tvg-id="" tvg-name="BARCELONA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/BARCELONA.png" group-title="La Liga",BARCELONA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395526
+#EXTINF:-1 tvg-id="" tvg-name="CADIZ" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/CADIZ.png" group-title="La Liga",CADIZ
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395525
+#EXTINF:-1 tvg-id="" tvg-name="CELTA VIGO" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/CELTA-VIGO.png" group-title="La Liga",CELTA VIGO
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395524
+#EXTINF:-1 tvg-id="" tvg-name="GETAFE" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/GETAFE.png" group-title="La Liga",GETAFE
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395523
+#EXTINF:-1 tvg-id="" tvg-name="GIRONA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/GIRONA.png" group-title="La Liga",GIRONA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395522
+#EXTINF:-1 tvg-id="" tvg-name="GRANADA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/GRANADA.png" group-title="La Liga",GRANADA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395521
+#EXTINF:-1 tvg-id="" tvg-name="LAS PALMAS" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/LAS-PALMAS.png" group-title="La Liga",LAS PALMAS
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395520
+#EXTINF:-1 tvg-id="" tvg-name="MALLORCA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/MALLORCA.png" group-title="La Liga",MALLORCA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395519
+#EXTINF:-1 tvg-id="" tvg-name="OSASUNA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/OSASUNA.png" group-title="La Liga",OSASUNA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395518
+#EXTINF:-1 tvg-id="" tvg-name="RAYO VALLECANO" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/RAYO-VALLECANO.png" group-title="La Liga",RAYO VALLECANO
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395517
+#EXTINF:-1 tvg-id="" tvg-name="REAL BETIS" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/REAL-BETIS.png" group-title="La Liga",REAL BETIS
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395516
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/REAL-MADRID.png" group-title="La Liga",REAL MADRID
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395515
+#EXTINF:-1 tvg-id="" tvg-name="REAL SOCIEDAD" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/REAL-SOCIEDAD.png" group-title="La Liga",REAL SOCIEDAD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395514
+#EXTINF:-1 tvg-id="" tvg-name="SEVILLA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SEVILLA.png" group-title="La Liga",SEVILLA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395513
+#EXTINF:-1 tvg-id="" tvg-name="VALENCIA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/VALENCIA.png" group-title="La Liga",VALENCIA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395512
+#EXTINF:-1 tvg-id="" tvg-name="VILLAREAL" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/VILLAREAL.png" group-title="La Liga",VILLAREAL
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395511
+
+# ---- Italy | Serie A --------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="AC MILAN" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/AC-MILAN.png" group-title="Seria A",AC MILAN
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395510
+#EXTINF:-1 tvg-id="" tvg-name="ATALANTA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ATALANTA.png" group-title="Seria A",ATALANTA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395509
+#EXTINF:-1 tvg-id="" tvg-name="BOLOGNa" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BOLOGNa.png" group-title="Seria A",BOLOGNA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395508
+#EXTINF:-1 tvg-id="" tvg-name="CAGLIARI" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CAGLIARI.png" group-title="Seria A",CAGLIARI
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395507
+#EXTINF:-1 tvg-id="" tvg-name="EMPOLI" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EMPOLI.png" group-title="Seria A",EMPOLI
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395506
+#EXTINF:-1 tvg-id="" tvg-name="FIORENTINA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FIORENTINA.png" group-title="Seria A",FIORENTINA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395505
+#EXTINF:-1 tvg-id="" tvg-name="FROSINONE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FROSINONE.png" group-title="Seria A",FROSINONE
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395504
+#EXTINF:-1 tvg-id="" tvg-name="GENOA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/GENOA.png" group-title="Seria A",GENOA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395503
+#EXTINF:-1 tvg-id="" tvg-name="INTER MILAN" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/INTER-MILAN.png" group-title="Seria A",INTER MILAN
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395502
+#EXTINF:-1 tvg-id="" tvg-name="JUVENTUS" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/JUVENTUS.png" group-title="Seria A",JUVENTUS
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395501
+#EXTINF:-1 tvg-id="" tvg-name="LAZIO" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/LAZIO.png" group-title="Seria A",LAZIO
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395500
+#EXTINF:-1 tvg-id="" tvg-name="LECCE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/LECCE.png" group-title="Seria A",LECCE
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395499
+#EXTINF:-1 tvg-id="" tvg-name="MONZA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MONZA.png" group-title="Seria A",MONZA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395498
+#EXTINF:-1 tvg-id="" tvg-name="NAPOLI" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NAPOLI.png" group-title="Seria A",NAPOLI
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395497
+#EXTINF:-1 tvg-id="" tvg-name="ROMA" tvg-logo="http://103.176.90.118/picons/logos/ITALY/ROMA.png" group-title="Seria A",ROMA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395496
+#EXTINF:-1 tvg-id="" tvg-name="SALERNITANA" tvg-logo="http://103.176.90.118/picons/logos/ITALY/SALERNITANA.png" group-title="Seria A",SALERNITANA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395494
+#EXTINF:-1 tvg-id="" tvg-name="SASSUOLO" tvg-logo="http://103.176.90.118/picons/logos/ITALY/SASSUOLO.png" group-title="Seria A",SASSUOLO
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395495
+#EXTINF:-1 tvg-id="" tvg-name="TORINO" tvg-logo="http://103.176.90.118/picons/logos/ITALY/TORINO.png" group-title="Seria A",TORINO
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395493
+#EXTINF:-1 tvg-id="" tvg-name="UDINESE" tvg-logo="http://103.176.90.118/picons/logos/ITALY/UDINESE.png" group-title="Seria A",UDINESE
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395492
+#EXTINF:-1 tvg-id="" tvg-name="VERONA" tvg-logo="http://103.176.90.118/picons/logos/ITALY/VERONA.png" group-title="Seria A",VERONA
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395491
 
 
+# ---- France | Ligue 1 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-# ---- SPORTS ------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS ESPN HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports ESPN
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79483
-
-#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 1
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79486
-
-#EXTINF:-1 tvg-id="TNTSports1 HD.uk" tvg-name="UK| TNT SPORTS 1 HD ◉" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 1 ◉
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1261564
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="UK| TNT SPORTS 2 HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 2
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79485
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="UK| TNT SPORTS 3 HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 3
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79484
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-name="UK| TNT SPORTS 4 HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 4
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1002857
-
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 HD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 5
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004549
-
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Main Event
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83450
-
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HD(BK)" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Main Event
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1448189
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS MAIN EVENT UHD/4K" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Main Event
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1641636
-
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS DARTS UHD/4K" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| Sky Sports Darts
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1641637
-
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PL HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Premier League
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83447
-
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Football
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83452
-
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports News
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83448
-
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK|SKY SPORTS ACTION HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Action
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83456
-
-#EXTINF:-1 tvg-id="uk.Sky Sports Arena" tvg-name="UK| SKY SPORTS ARENA HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Arena
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83455
-
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Cricket
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83454
-
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS DARTS HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS DARTS HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83453
-
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Mix
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83449
-
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Racing
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83446
-
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Golf
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83451
-
-#EXTINF:-1 tvg-id="Sky Sports Tennis HD.uk" tvg-name="UK| SKY SPOIRTS TENNIS HD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Tennis
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1454231
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| BT BOX OFFICE HD" tvg-logo="https://i.postimg.cc/tJwxSc1t/BT_Sport.jpg" group-title="Sports",BT Box Office
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1019934
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| DAZN 1 HD" tvg-logo="https://i.postimg.cc/GtHDjRpm/DAZN.jpg" group-title="Sports",DAZN 1
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1221178
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| MANCHESTER UNITED HD" tvg-logo="https://i.postimg.cc/vHx9gGjP/MUTV.jpg" group-title="Sports",Manchester United TV
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/725954
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| CHELSEA TV HD" tvg-logo="https://i.postimg.cc/TP0WM1LP/Chelsea_TV.jpg" group-title="Sports",Chelsea TV
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45327
-
-#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK| LFC TV FHD" tvg-logo="https://i.postimg.cc/CMQkxRvB/LFC_TV.jpg" group-title="Sports",LFC TV
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/910647
-
-#EXTINF:-1 tvg-id="uk.425 LFCTV HD" tvg-name="UK| LFC TV" tvg-logo="https://i.postimg.cc/CMQkxRvB/LFC_TV.jpg" group-title="Sports",LFC TV
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45268
-
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK| MUTV FHD" tvg-logo="https://i.postimg.cc/vHx9gGjP/MUTV.jpg" group-title="Sports",MUTV FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45324
-
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK| EUROSPORT 1 HD" tvg-logo="https://i.postimg.cc/xCdN0QM3/Euro-Sport.png" group-title="Sports",EuroSport 1
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/547746
-
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK| EUROSPORT 2 HD" tvg-logo="https://i.postimg.cc/xCdN0QM3/Euro-Sport.png" group-title="Sports",EuroSport 2
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/547747
-
-#EXTINF:-1 tvg-id="LaLiga.uk" tvg-name="UK| PREMIER SPORT LALIGA TV HD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",ViaPlay Premier Sports La Liga
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/163610
-
-#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK| PREMIER SPORTS 1 HD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",ViaPlay Premier Sports 1
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45235
-
-#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| PREMIER SPORT 2 HD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",ViaPlay Premier Sports 2
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/163608
-
-
-
-
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/230681
-#EXTINF:-1 tvg-id="BTSportUltimate.uk" tvg-name="UK| TNT ULTIMATE 4K+ [LIVE-EVENT]" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Ultimate [LIVE]
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1379047
-#EXTINF:-1 tvg-id="" tvg-name="UK| TNT BOX OFFICE FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Box Office
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1019933
-#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS ESPN FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports ESPN
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30564
-#EXTINF:-1 tvg-id="TNT Sports 1.uk" tvg-name="UK| TNT SPORTS 1 FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 1
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30567
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="UK| TNT SPORTS 2 FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 2
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30566
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="UK| TNT SPORTS 3 FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 3
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30565
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-name="UK| TNT SPORTS 4 FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 4
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1019935
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 FHD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",TNT Sports 5
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004548
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Main Event
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30496
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PL FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Premier League
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30493
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Football
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30498
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK| SKY SPORTS ACTION FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Action
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30501
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS ARENA FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Arena
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30500
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Cricket
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30502
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS DARTS FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Darts
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30499
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Golf
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30497
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Mix
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30495
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports News
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30494
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Racing
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/77373
-#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPOIRTS TENNIS FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",Sky Sports Tennis
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1454232
-
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/230683
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS MAIN EVENT
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79476
-#EXTINF:-1 tvg-id="uk.Sky Sports Premier League" tvg-name="UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS PREMIER LEAGUE FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79473
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK| SKY SPORTS ACTION" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS ACTION
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79482
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS ARENA" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS ARENA
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79481
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS CRICKET
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79480
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS DARTS" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS DARTS
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79479
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS FOOTBALL
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79478
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS GOLF
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79477
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS MIX
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79475
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS NEWS
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79474
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING" tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky_Sports.png" group-title="Sports",UK| SKY SPORTS RACING
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79472
-#EXTINF:-1 tvg-id="TNT Sports 1.uk" tvg-name="UK| TNT SPORTS 1 SD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 1 SD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1047260
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="UK| TNT SPORTS 2 SD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 2 SD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1047261
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="UK| TNT SPORTS 3 SD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 3 SD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1047262
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-name="UK| TNT SPORTS 4 SD" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 4 SD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1047263
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 5
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004550
-#EXTINF:-1 tvg-id="TNT.Sports.6.HD.uk" tvg-name="UK| TNT SPORTS 6" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 6
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004551
-#EXTINF:-1 tvg-id="TNT.Sports.7.HD.uk" tvg-name="UK| TNT SPORTS 7" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 7
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004552
-#EXTINF:-1 tvg-id="TNT.Sports.8.HD.uk" tvg-name="UK| TNT SPORTS 8" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 8
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004553
-#EXTINF:-1 tvg-id="TNT.Sports.9.HD.uk" tvg-name="UK| TNT SPORTS 9" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 9
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004554
-#EXTINF:-1 tvg-id="TNT.Sports.10.HD.uk" tvg-name="UK| TNT SPORTS 10" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT_Sports.jpg" group-title="Sports",UK| TNT SPORTS 10
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1004555
-#EXTINF:-1 tvg-id="uk.BT Sport X6" tvg-name="UK| BT SPORTS EXTRA 6 HD (RAW)" tvg-logo="https://i.postimg.cc/tJwxSc1t/BT_Sport.jpg" group-title="Sports",UK| BT SPORTS EXTRA 6 HD (RAW)
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014265
-#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS EXTRA 7 HD (RAW)" tvg-logo="https://i.postimg.cc/tJwxSc1t/BT_Sport.jpg" group-title="Sports",UK| BT SPORTS EXTRA 7 HD (RAW)
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014264
-#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS EXTRA 8 HD (RAW)" tvg-logo="https://i.postimg.cc/tJwxSc1t/BT_Sport.jpg" group-title="Sports",UK| BT SPORTS EXTRA 8 HD (RAW)
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014263
-#EXTINF:-1 tvg-id="" tvg-name="UK| BT SPORTS EXTRA 9 HD (RAW)" tvg-logo="https://i.postimg.cc/tJwxSc1t/BT_Sport.jpg" group-title="Sports",UK| BT SPORTS EXTRA 9 HD (RAW)
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014262
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK| EUROSPORT 1 FHD" tvg-logo="https://i.postimg.cc/xCdN0QM3/Euro-Sport.png" group-title="Sports",UK| EUROSPORT 1 FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30541
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK| EUROSPORT 2 FHD" tvg-logo="https://i.postimg.cc/xCdN0QM3/Euro-Sport.png" group-title="Sports",UK| EUROSPORT 2 FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30540
-#EXTINF:-1 tvg-id="" tvg-name="UK| VIAPLAY XTRA HD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",UK| ViaPlay Extra
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014260
-#EXTINF:-1 tvg-id="" tvg-name="UK| PREMIER SPORT LALIGA TV FHD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",UK| ViaPlay LALIGA TV FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/163611
-#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK| PREMIER SPORT 1 FHD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",UK| ViaPlay 1 FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/163607
-#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| PREMIER SPORTS 2 FHD" tvg-logo="https://i.postimg.cc/wBgsGLBP/ViaPlay.jpg" group-title="Sports",UK| ViaPlay 2 FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45251
-#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| RACING UK FHD" tvg-logo="https://i.postimg.cc/905w5ntW/Racing_UK.jpg" group-title="Sports",UK| RACING UK FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30523
-#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| RACING UK ◉" tvg-logo="https://i.postimg.cc/905w5ntW/Racing_UK.jpg" group-title="Sports",UK| RACING UK ◉
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1069214
-
-
-#EXTINF:-1 tvg-id="" tvg-name="UK| EDGE SPORT FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/EDGE-SPORT.png" group-title="Sports",UK| EDGE SPORT FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014266
-#EXTINF:-1 tvg-id="" tvg-name="UK| UFC TV (Events2)" tvg-logo="https://i.postimg.cc/rFpR6x5R/UFC.jpg" group-title="Sports",UK| UFC TV (Events2)
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014267
-#EXTINF:-1 tvg-id="" tvg-name="UK| UFC HD" tvg-logo="https://i.postimg.cc/rFpR6x5R/UFC.jpg" group-title="Sports",UK| UFC HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/825538
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 1" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688044
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 2" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688043
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 3" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688042
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 4" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688041
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 5" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688040
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 6" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688039
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 7" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688038
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 8" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688037
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 9" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688036
+#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 10" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688035
 
 # ---- FINANCE ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -333,3 +258,608 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/49214
 
 #EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK| CNBC" tvg-logo="https://i.postimg.cc/9XZbKtXX/CNBC-2.png" group-title="Finance",CNBC
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/164037
+
+# ---- TESTs ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411428
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411429
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411430
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411431
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411432
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411433
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411434
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411435
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411436
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411437
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411438
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411439
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411440
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411441
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411442
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411443
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411444
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411445
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411446
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) AFC Champions League 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) AFC Champions League 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411447
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411448
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411449
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411450
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411451
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411452
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411453
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411454
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411455
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411456
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411457
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411458
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411459
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411460
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411461
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411462
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411463
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411464
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411465
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411466
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Argentina Liga Profesional De Futbol 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Argentina Liga Profesional De Futbol 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411467
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411468
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411469
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411470
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411471
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411472
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411473
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411474
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411475
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411476
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411477
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411478
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411479
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411480
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411481
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411482
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411483
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411484
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411485
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411486
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Arnold Clark Cup 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Arnold Clark Cup 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411487
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411488
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411489
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411490
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411491
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411492
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411493
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411494
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411495
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411496
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411497
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411498
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411499
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411500
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411501
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411502
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411503
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411504
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411505
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411506
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Barclays Womens Super League 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Barclays Womens Super League 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411507
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411508
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411509
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411510
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411511
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411512
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411513
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411514
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411515
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411516
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411517
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411518
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411519
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411520
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411521
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411522
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411523
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411524
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411525
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411526
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Brazil Campeonato Brasileirao SerieA 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Brazil Campeonato Brasileirao SerieA 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411527
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411528
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411529
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411530
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411531
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411532
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411533
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411534
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411535
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411536
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411537
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411538
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411539
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411540
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411541
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411542
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411543
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411544
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411545
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411546
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Combate Global 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Combate Global 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411547
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411548
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411549
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411550
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411551
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411552
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411553
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411554
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411555
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411556
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411557
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411558
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411559
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411560
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411561
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411562
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411563
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411564
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411565
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411566
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) CONCAF Nations League 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) CONCAF Nations League 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411567
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 1: Monza vs Parma | 15/03 09:50 ET" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 1: Monza vs Parma | 15/03 09:50 ET
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411568
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 2: Udinese vs Hellas Verona | 15/03 09:50 ET" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 2: Udinese vs Hellas Verona | 15/03 09:50 ET
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411569
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 3: AC Milan vs Como | 15/03 12:50 ET" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 3: AC Milan vs Como | 15/03 12:50 ET
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411570
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 4: Torino vs Empoli | 15/03 15:00 ET" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 4: Torino vs Empoli | 15/03 15:00 ET
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411571
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411572
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 6: Roma vs Napoli | 23/12 14:00 ET" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 6: Roma vs Napoli | 23/12 14:00 ET
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411573
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411574
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411575
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411576
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411577
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411578
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411579
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411580
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411581
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411582
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411583
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411584
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411585
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411586
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Italy SerieA 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Italy SerieA 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411587
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411588
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411589
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411590
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411591
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411592
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411593
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411594
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411595
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411596
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411597
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411598
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411599
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411600
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411601
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411602
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411603
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411604
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411605
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411606
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) National Womens Soccer League 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) National Womens Soccer League 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411607
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411608
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411609
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411610
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411611
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411612
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411613
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411614
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411615
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411616
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411617
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411618
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411619
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411620
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411621
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411622
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411623
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411624
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411625
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411626
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) Scottish Professional Football League 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) Scottish Professional Football League 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411627
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411628
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411629
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411630
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411631
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411632
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411633
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411634
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411635
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411636
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411637
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411638
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411639
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411640
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411641
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411642
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411643
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411644
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411645
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411646
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) The Masters 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) The Masters 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411647
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411648
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411649
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411650
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411651
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411652
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411653
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411654
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411655
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411656
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411657
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411658
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411659
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411660
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411661
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411662
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411663
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411664
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411665
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411666
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Champions League 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Champions League 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411667
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411668
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411669
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411670
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411671
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411672
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411673
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411674
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411675
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411676
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411677
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411678
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411679
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411680
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411681
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411682
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411683
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411684
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411685
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411686
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa Conference League 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa Conference League 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411687
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 1
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411688
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 2" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411689
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 3" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 3
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411690
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 4" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 4
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411691
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 5" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 5
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411692
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 6" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 6
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411693
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 7" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 7
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411694
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 8" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 8
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411695
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 9" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 9
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411696
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411697
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411698
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411699
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411700
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411701
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411702
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411703
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411704
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411705
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411706
+#EXTINF:-1 tvg-id="" tvg-name="US (P+) UEFA Europa League 20" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US (P+) UEFA Europa League 20
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411707
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 21 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 21 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411708
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 42 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 42 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411709
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 63 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 63 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411710
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 84 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 84 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411711
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 105 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 105 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411712
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 126 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 126 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411713
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 147 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 147 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411714
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 168 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 168 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411715
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 189 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 189 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411716
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 210 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 210 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411717
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 231 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 231 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411718
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 252 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 252 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411719
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 273 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 273 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411720
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 294 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 294 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411721
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 295 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 295 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411722
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 296 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 296 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411723
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 297 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 297 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411724
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 298 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 298 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411725
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 299 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 299 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411726
+#EXTINF:-1 tvg-id="" tvg-name="US P+ 300 (D)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PARANOUNT.png" group-title="US| PARAMOUNT+ PPV",US P+ 300 (D)
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1411727
+#EXTINF:-1 tvg-id="" tvg-name="##### B1G+ PPV #####" tvg-logo="http://103.176.90.118/picons/logos/USA/b1g-logo.png" group-title="US| B1G+ PPV",##### B1G+ PPV #####
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1362757
