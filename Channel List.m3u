@@ -256,33 +256,23 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395491
 
 # ---- FINANCE ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="Bloomberg.gr" tvg-name="4K| BLOOMBERG UHD" tvg-logo="https://i.postimg.cc/3wq95tDN/Bloomberg-TV-1.png" group-title="Finance",BLOOMBERG TV
+#EXTINF:-1 tvg-id="Bloomberg.gr" tvg-name="4K| BLOOMBERG UHD" tvg-logo="https://i.postimg.cc/3wq95tDN/Bloomberg-TV-1.png" group-title="Finance",Bloomberg TV
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1470604
 
-#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US| CNBC WORLD HD" tvg-logo="https://i.postimg.cc/QdjMnKkn/CNBC.jpg" group-title="Finance",CNBC WORLD
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US| CNBC WORLD HD" tvg-logo="https://i.postimg.cc/QdjMnKkn/CNBC.jpg" group-title="Finance",CNBC World
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91782
 
 #EXTINF:-1 tvg-id="CNBC.us" tvg-name="US| CNBC HD" tvg-logo="https://i.postimg.cc/cCym66hN/CNBC-1.jpg" group-title="Finance",CNBC
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45593
 
-
-
-
-
-#EXTINF:-1 tvg-id="US-FOX HD Philadelphia" tvg-name="US| BLOOMBERG QUICKTAKE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLOOMBERG-QUICKTAKE.png" group-title="Finance",Bloomberg Quicktake
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1453860
-
-
-#EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-name="US| CHEDDAR BUSINESS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CHEDDAR-BUSINESS.png" group-title="Finance",US| CHEDDAR BUSINESS HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91784
-
-
-
-#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US| CNBC WORLD HD" tvg-logo="https://i.postimg.cc/cCym66hN/CNBC-1.jpg" group-title="Finance",CNBC WORLD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91782
-
 #EXTINF:-1 tvg-id="" tvg-name="US| YAHOO FINANCE" tvg-logo="https://i.postimg.cc/0Npq6R8L/Yahoo-Finance.jpg" group-title="Finance",Yahoo! Finance
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1795752
+
+#EXTINF:-1 tvg-id="US-FOX HD Philadelphia" tvg-name="US| BLOOMBERG QUICKTAKE" tvg-logo="https://i.postimg.cc/8z8VHPn7/Bloomberg-Originals.jpg" group-title="Finance",Bloomberg Originals
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1453860
+
+#EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-name="US| CHEDDAR BUSINESS HD" tvg-logo="https://i.postimg.cc/sXHkZVhD/Cheddar-Business.webp" group-title="Finance",US| Cheddar Business
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91784
 
 # ---- TESTs ------------------------------------------------------------------------------------------------------------------------------------------------------
 
