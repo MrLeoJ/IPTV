@@ -256,35 +256,27 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395491
 
 # ---- FINANCE ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG EU" tvg-logo="https://i.postimg.cc/3wq95tDN/Bloomberg-TV-1.png" group-title="Finance",BLOOMBERG EU
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111540
+#EXTINF:-1 tvg-id="Bloomberg.gr" tvg-name="4K| BLOOMBERG UHD" tvg-logo="https://i.postimg.cc/3wq95tDN/Bloomberg-TV-1.png" group-title="Finance",BLOOMBERG TV
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1470604
 
-#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG HD" tvg-logo="https://i.postimg.cc/6QqzmkqF/Bloomberg-TV-2.png" group-title="Finance",BLOOMBERG
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/49214
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US| CNBC WORLD HD" tvg-logo="https://i.postimg.cc/QdjMnKkn/CNBC.jpg" group-title="Finance",CNBC WORLD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91782
 
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="US| BLOOMBERG HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BLOOMBERG.png" group-title="Finance",US| BLOOMBERG HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91936
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US| CNBC HD" tvg-logo="https://i.postimg.cc/cCym66hN/CNBC-1.jpg" group-title="Finance",CNBC
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45593
+
+
+
+
+
 #EXTINF:-1 tvg-id="US-FOX HD Philadelphia" tvg-name="US| BLOOMBERG QUICKTAKE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLOOMBERG-QUICKTAKE.png" group-title="Finance",Bloomberg Quicktake
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1453860
-#EXTINF:-1 tvg-id="Bloomberg.gr" tvg-name="4K| BLOOMBERG UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/BLOOMBERG-HD.png" group-title="Finance",4K| BLOOMBERG UHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1470604
-#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="PT| BLOOMBERG" tvg-logo="http://103.176.90.118/piconsnew/bloomberg.png" group-title="Finance",PT| BLOOMBERG
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/107512
-#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG EU" tvg-logo="http://103.176.90.118/picons/logos/UK/BLOOMBERG-1.png" group-title="Finance",UK| BLOOMBERG EU
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111540
-#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG HD" tvg-logo="http://103.176.90.118/picons/logos/UK/BLOOMBERG-1.png" group-title="Finance",UK| BLOOMBERG HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/49214
-#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG HEVC" tvg-logo="http://103.176.90.118/picons/logos/UK/BLOOMBERG-1.png" group-title="Finance",UK| BLOOMBERG HEVC
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111549
-#EXTINF:-1 tvg-id="ca.BNN Bloomberg" tvg-name="CA| BNN HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BNN.png" group-title="Finance",CA| BNN HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/176798
-#EXTINF:-1 tvg-id="US-Fox Business" tvg-name="US| FOX BUSINESS NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FOX-BUSINESS-NETWORK.png" group-title="Finance",US| FOX BUSINESS NETWORK HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45575
+
+
 #EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-name="US| CHEDDAR BUSINESS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CHEDDAR-BUSINESS.png" group-title="Finance",US| CHEDDAR BUSINESS HD
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91784
 
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US| CNBC HD" tvg-logo="https://i.postimg.cc/QdjMnKkn/CNBC.jpg" group-title="Finance",CNBC
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45593
+
 
 #EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US| CNBC WORLD HD" tvg-logo="https://i.postimg.cc/cCym66hN/CNBC-1.jpg" group-title="Finance",CNBC WORLD
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91782
