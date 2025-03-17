@@ -41,17 +41,20 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30545
 #EXTINF:-1 tvg-id="" tvg-name="UK| E4 EXTRA" tvg-logo="https://i.postimg.cc/cC2B3tjh/E4.jpg" group-title="General",E4 Extra
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014314
 
-#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="UK| LONDON LIVE" tvg-logo="https://i.postimg.cc/tCSYqw2X/London_Live.jpg" group-title="General",London Live
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111563
-
-#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK| ALIBI FHD" tvg-logo="https://i.postimg.cc/pLDgZs2b/Alibi.png" group-title="General",Alibi 
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30584
-
 #EXTINF:-1 tvg-id="UandDave.uk" tvg-name="UK| DAVE FHD" tvg-logo="https://i.postimg.cc/J0jwBD5L/Dave.jpg" group-title="General",Dave
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30550
 
 #EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="UK| DAVE JA VU" tvg-logo="https://i.postimg.cc/sXkdX9Sm/Dave-Ja-Vu.jpg" group-title="General",Dave Ja Vu
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014227
+
+#EXTINF:-1 tvg-id="W.uk" tvg-name="UK| W HD" tvg-logo="https://i.postimg.cc/pLVPYXSH/0.jpg" group-title="General",W
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83056
+
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK| ALIBI FHD" tvg-logo="https://i.postimg.cc/pLDgZs2b/Alibi.png" group-title="General",Alibi 
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30584
+
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="UK| LONDON LIVE" tvg-logo="https://i.postimg.cc/tCSYqw2X/London_Live.jpg" group-title="General",London Live
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111563
 
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-name="UK| CHALLENGE" tvg-logo="https://i.postimg.cc/xCHjg7TL/Challenge.jpg" group-title="General",Challenge
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/228565
@@ -59,8 +62,32 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/228565
 #EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK| COMEDY CENTRAL FHD" tvg-logo="https://i.postimg.cc/qq3MRvFf/Comedy-Central.png" group-title="General",Comedy Central
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30552
 
-#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="UK| E! ENTERTAINMENT HD" tvg-logo="https://i.postimg.cc/t422zKyf/e.jpg" group-title="General",E!
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45278
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK| DISCOVERY SCIENCE" tvg-logo="https://i.postimg.cc/T3jhjmwN/Science.jpg" group-title="General",Science Channel
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45281
+
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK| DISCOVERY HISTORY" tvg-logo="https://i.postimg.cc/LsnXcWDw/Discovery_History.jpg" group-title="General",Discovery History
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45283
+
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="UK| HISTORY FHD" tvg-logo="https://i.postimg.cc/VLK02X1S/History_Channel.png" group-title="General",History
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30534
+
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="UK| HISTORY 2 FHD" tvg-logo="https://i.postimg.cc/7YHTBKv8/History_2.jpg" group-title="General",History 2
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30535
+
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK| NAT GEO FHD" tvg-logo="https://i.postimg.cc/5yZTtXW8/National_Geographic.jpg" group-title="General",National Geographic
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30526
+
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK| MTV FHD" tvg-logo="https://i.postimg.cc/SRzkqLQL/MTV.png" group-title="General",MTV
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45326
+
+#EXTINF:-1 tvg-id="uk.MTV Live HD" tvg-name="UK| MTV LIVE FHD" tvg-logo="https://i.postimg.cc/HshtGq91/MTV_Live.jpg" group-title="General",MTV Live
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45325
+
+#EXTINF:-1 tvg-id="FashionTV.pt" tvg-name="PT| FASHION TV" tvg-logo="https://i.postimg.cc/tCJvKtPw/Fashion_TV.png" group-title="General",Fashion TV
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/107480
+
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="D+| FOOD NETWORK" tvg-logo="https://i.postimg.cc/NfYBR0yp/Food-Network.png" group-title="General",Food Network
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/549404
 
 # ---- NEWS ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -92,161 +119,140 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30553
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014206
 
 # ---- England | Premier League -----------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/Hxy88LJT/Premier-League.png" group-title="Live Football",ᴘʀᴇᴍɪᴇʀ ʟᴇᴀɢᴜᴇ
 
-#EXTINF:-1 tvg-id="" tvg-name="ARSENAL" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-ARSENAL.png" group-title="Premier League",ARSENAL
+#EXTINF:-1 tvg-id="" tvg-name="ARSENAL" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-ARSENAL.png" group-title="Live Football",ARSENAL
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988368
-#EXTINF:-1 tvg-id="" tvg-name="ASTON VILLA" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-ASTON-VILLA.png" group-title="Premier League",ASTON VILLA
+#EXTINF:-1 tvg-id="" tvg-name="ASTON VILLA" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-ASTON-VILLA.png" group-title="Live Football",ASTON VILLA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988367
-#EXTINF:-1 tvg-id="" tvg-name="AFC BOURNEMOUTH" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-AFC-BOURNEMOUTH.png" group-title="Premier League",AFC BOURNEMOUTH
+#EXTINF:-1 tvg-id="" tvg-name="AFC BOURNEMOUTH" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-AFC-BOURNEMOUTH.png" group-title="Live Football",BOURNEMOUTH
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988366
-#EXTINF:-1 tvg-id="" tvg-name="LEICESTER" tvg-logo="http://51.158.145.100/picons/logos/UK/EPL-LEICESTER.png" group-title="Premier League",LEICESTER
+#EXTINF:-1 tvg-id="" tvg-name="LEICESTER" tvg-logo="http://51.158.145.100/picons/logos/UK/EPL-LEICESTER.png" group-title="Live Football",LEICESTER
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1715253
-#EXTINF:-1 tvg-id="" tvg-name="BRENTFORD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-BRENTFORD.png" group-title="Premier League",BRENTFORD
+#EXTINF:-1 tvg-id="" tvg-name="BRENTFORD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-BRENTFORD.png" group-title="Live Football",BRENTFORD
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988365
-#EXTINF:-1 tvg-id="" tvg-name="BRIGHTON" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-BRIGHTON.png" group-title="Premier League",BRIGHTON
+#EXTINF:-1 tvg-id="" tvg-name="BRIGHTON" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-BRIGHTON.png" group-title="Live Football",BRIGHTON
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988364
-#EXTINF:-1 tvg-id="" tvg-name="CHELSEA" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-CHELSEA.png" group-title="Premier League",CHELSEA
+#EXTINF:-1 tvg-id="" tvg-name="CHELSEA" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-CHELSEA.png" group-title="Live Football",CHELSEA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988363
-#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL PALACE" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-CRYSTAL-PALACE.png" group-title="Premier League",CRYSTAL PALACE
+#EXTINF:-1 tvg-id="" tvg-name="CRYSTAL PALACE" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-CRYSTAL-PALACE.png" group-title="Live Football",CRYSTAL PALACE
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988362
-#EXTINF:-1 tvg-id="" tvg-name="FULHAM" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-FULHAM.png" group-title="Premier League",FULHAM
+#EXTINF:-1 tvg-id="" tvg-name="FULHAM" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-FULHAM.png" group-title="Live Football",FULHAM
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988360
-#EXTINF:-1 tvg-id="" tvg-name="WOLVERHAMPTON WANDERERS" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-WOLVERGAMPTON-WANDERERS.png" group-title="Premier League",WOLVERHAMPTON WANDERERS
+#EXTINF:-1 tvg-id="" tvg-name="WOLVERHAMPTON WANDERERS" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-WOLVERGAMPTON-WANDERERS.png" group-title="Live Football",WOLVES
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988350
-#EXTINF:-1 tvg-id="" tvg-name="EVERTON" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-EVERTON.png" group-title="Premier League",EVERTON
+#EXTINF:-1 tvg-id="" tvg-name="EVERTON" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-EVERTON.png" group-title="Live Football",EVERTON
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988361
-#EXTINF:-1 tvg-id="" tvg-name="BURNLEY" tvg-logo="http://103.176.90.118/picons/logos/BURNLEY-FC.png" group-title="Premier League",BURNLEY
+#EXTINF:-1 tvg-id="" tvg-name="BURNLEY" tvg-logo="http://103.176.90.118/picons/logos/BURNLEY-FC.png" group-title="Live Football",BURNLEY
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988359
-#EXTINF:-1 tvg-id="" tvg-name="LIVERPOOL" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-LIVERPOOL.png" group-title="Premier League",LIVERPOOL
+#EXTINF:-1 tvg-id="" tvg-name="LIVERPOOL" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-LIVERPOOL.png" group-title="Live Football",LIVERPOOL
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988358
-#EXTINF:-1 tvg-id="" tvg-name="MANCHESTER CITY" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-MANCHESTER-CITY.png" group-title="Premier League",MANCHESTER CITY
+#EXTINF:-1 tvg-id="" tvg-name="MANCHESTER CITY" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-MANCHESTER-CITY.png" group-title="Live Football",MANCHESTER CITY
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988357
-#EXTINF:-1 tvg-id="" tvg-name="MANCHESTER UTD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-MANCHESTER-UTD.png" group-title="Premier League",MANCHESTER UTD
+#EXTINF:-1 tvg-id="" tvg-name="MANCHESTER UTD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-MANCHESTER-UTD.png" group-title="Live Football",MANCHESTER UTD
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988356
-#EXTINF:-1 tvg-id="" tvg-name="NEWCASTLE UTD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-NEWCASTLE-UTD.png" group-title="Premier League",NEWCASTLE UTD
+#EXTINF:-1 tvg-id="" tvg-name="NEWCASTLE UTD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-NEWCASTLE-UTD.png" group-title="Live Football",NEWCASTLE UTD
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988355
-#EXTINF:-1 tvg-id="" tvg-name="NOTTINGHAM FOREST" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-NOTTINGHAM-FOREST.png" group-title="Premier League",NOTTINGHAM FOREST
+#EXTINF:-1 tvg-id="" tvg-name="NOTTINGHAM FOREST" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-NOTTINGHAM-FOREST.png" group-title="Live Football",NOTTINGHAM FOREST
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988354
-#EXTINF:-1 tvg-id="" tvg-name="SHEFFIEID UTD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-SHEFFIEID.png" group-title="Premier League",SHEFFIEID UTD
+#EXTINF:-1 tvg-id="" tvg-name="SHEFFIEID UTD" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-SHEFFIEID.png" group-title="Live Football",SHEFFIEID UTD
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988353
-#EXTINF:-1 tvg-id="" tvg-name="SOUTHAMPTON" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-SOUTHAMPTON.png" group-title="Premier League",SOUTHAMPTON
+#EXTINF:-1 tvg-id="" tvg-name="SOUTHAMPTON" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-SOUTHAMPTON.png" group-title="Live Football",SOUTHAMPTON
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1505600
-#EXTINF:-1 tvg-id="" tvg-name="TOTTENHAM" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-TOTTENHAM.png" group-title="Premier League",TOTTENHAM
+#EXTINF:-1 tvg-id="" tvg-name="TOTTENHAM" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-TOTTENHAM.png" group-title="Live Football",TOTTENHAM
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988352
-#EXTINF:-1 tvg-id="" tvg-name="WEST HAM" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-WEST-HAM.png" group-title="Premier League",WEST HAM
+#EXTINF:-1 tvg-id="" tvg-name="WEST HAM" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-WEST-HAM.png" group-title="Live Football",WEST HAM
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988351
-#EXTINF:-1 tvg-id="" tvg-name="LUTON" tvg-logo="http://103.176.90.118/picons/logos/UK/Luton-Town.png" group-title="Premier League",LUTON
+#EXTINF:-1 tvg-id="" tvg-name="LUTON" tvg-logo="http://103.176.90.118/picons/logos/UK/Luton-Town.png" group-title="Live Football",LUTON
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988349
 
 # ---- Spain | La Liga --------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Live Football" tvg-logo="https://i.postimg.cc/Gp9yrKd8/La-Liga.jpg" group-title="Live Football",ʟᴀ ʟɪɢᴀ
 
-#EXTINF:-1 tvg-id="" tvg-name="ALAVES" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ALAVES.png" group-title="La Liga",ALAVES
+#EXTINF:-1 tvg-id="" tvg-name="ALAVES" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ALAVES.png" group-title="Live Football",ALAVES
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395530
-#EXTINF:-1 tvg-id="" tvg-name="ALMERÍA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ALMER%c3%8dA.png" group-title="La Liga",ALMERÍA
+#EXTINF:-1 tvg-id="" tvg-name="ALMERÍA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ALMER%c3%8dA.png" group-title="Live Football",ALMERÍA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395529
-#EXTINF:-1 tvg-id="" tvg-name="ATHLETIC BILBAO" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ATHLETIC-BILBAO.png" group-title="La Liga",ATHLETIC BILBAO
+#EXTINF:-1 tvg-id="" tvg-name="ATHLETIC BILBAO" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ATHLETIC-BILBAO.png" group-title="Live Football",ATHLETIC BILBAO
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395528
-#EXTINF:-1 tvg-id="" tvg-name="ATLETICO MADRID" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ATLETICO-MADRID.png" group-title="La Liga",ATLETICO MADRID
+#EXTINF:-1 tvg-id="" tvg-name="ATLETICO MADRID" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ATLETICO-MADRID.png" group-title="Live Football",ATLETICO MADRID
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395527
-#EXTINF:-1 tvg-id="" tvg-name="BARCELONA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/BARCELONA.png" group-title="La Liga",BARCELONA
+#EXTINF:-1 tvg-id="" tvg-name="BARCELONA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/BARCELONA.png" group-title="Live Football",BARCELONA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395526
-#EXTINF:-1 tvg-id="" tvg-name="CADIZ" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/CADIZ.png" group-title="La Liga",CADIZ
+#EXTINF:-1 tvg-id="" tvg-name="CADIZ" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/CADIZ.png" group-title="Live Football",CADIZ
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395525
-#EXTINF:-1 tvg-id="" tvg-name="CELTA VIGO" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/CELTA-VIGO.png" group-title="La Liga",CELTA VIGO
+#EXTINF:-1 tvg-id="" tvg-name="CELTA VIGO" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/CELTA-VIGO.png" group-title="Live Football",CELTA VIGO
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395524
-#EXTINF:-1 tvg-id="" tvg-name="GETAFE" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/GETAFE.png" group-title="La Liga",GETAFE
+#EXTINF:-1 tvg-id="" tvg-name="GETAFE" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/GETAFE.png" group-title="Live Football",GETAFE
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395523
-#EXTINF:-1 tvg-id="" tvg-name="GIRONA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/GIRONA.png" group-title="La Liga",GIRONA
+#EXTINF:-1 tvg-id="" tvg-name="GIRONA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/GIRONA.png" group-title="Live Football",GIRONA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395522
-#EXTINF:-1 tvg-id="" tvg-name="GRANADA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/GRANADA.png" group-title="La Liga",GRANADA
+#EXTINF:-1 tvg-id="" tvg-name="GRANADA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/GRANADA.png" group-title="Live Football",GRANADA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395521
-#EXTINF:-1 tvg-id="" tvg-name="LAS PALMAS" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/LAS-PALMAS.png" group-title="La Liga",LAS PALMAS
+#EXTINF:-1 tvg-id="" tvg-name="LAS PALMAS" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/LAS-PALMAS.png" group-title="Live Football",LAS PALMAS
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395520
-#EXTINF:-1 tvg-id="" tvg-name="MALLORCA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/MALLORCA.png" group-title="La Liga",MALLORCA
+#EXTINF:-1 tvg-id="" tvg-name="MALLORCA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/MALLORCA.png" group-title="Live Football",MALLORCA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395519
-#EXTINF:-1 tvg-id="" tvg-name="OSASUNA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/OSASUNA.png" group-title="La Liga",OSASUNA
+#EXTINF:-1 tvg-id="" tvg-name="OSASUNA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/OSASUNA.png" group-title="Live Football",OSASUNA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395518
-#EXTINF:-1 tvg-id="" tvg-name="RAYO VALLECANO" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/RAYO-VALLECANO.png" group-title="La Liga",RAYO VALLECANO
+#EXTINF:-1 tvg-id="" tvg-name="RAYO VALLECANO" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/RAYO-VALLECANO.png" group-title="Live Football",RAYO VALLECANO
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395517
-#EXTINF:-1 tvg-id="" tvg-name="REAL BETIS" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/REAL-BETIS.png" group-title="La Liga",REAL BETIS
+#EXTINF:-1 tvg-id="" tvg-name="REAL BETIS" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/REAL-BETIS.png" group-title="Live Football",REAL BETIS
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395516
-#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/REAL-MADRID.png" group-title="La Liga",REAL MADRID
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/REAL-MADRID.png" group-title="Live Football",REAL MADRID
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395515
-#EXTINF:-1 tvg-id="" tvg-name="REAL SOCIEDAD" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/REAL-SOCIEDAD.png" group-title="La Liga",REAL SOCIEDAD
+#EXTINF:-1 tvg-id="" tvg-name="REAL SOCIEDAD" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/REAL-SOCIEDAD.png" group-title="Live Football",REAL SOCIEDAD
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395514
-#EXTINF:-1 tvg-id="" tvg-name="SEVILLA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SEVILLA.png" group-title="La Liga",SEVILLA
+#EXTINF:-1 tvg-id="" tvg-name="SEVILLA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SEVILLA.png" group-title="Live Football",SEVILLA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395513
-#EXTINF:-1 tvg-id="" tvg-name="VALENCIA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/VALENCIA.png" group-title="La Liga",VALENCIA
+#EXTINF:-1 tvg-id="" tvg-name="VALENCIA" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/VALENCIA.png" group-title="Live Football",VALENCIA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395512
-#EXTINF:-1 tvg-id="" tvg-name="VILLAREAL" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/VILLAREAL.png" group-title="La Liga",VILLAREAL
+#EXTINF:-1 tvg-id="" tvg-name="VILLAREAL" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/VILLAREAL.png" group-title="Live Football",VILLAREAL
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395511
 
 # ---- Italy | Serie A --------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="Live Football" tvg-logo="https://i.postimg.cc/zfMRfhGd/Serie-A.png" group-title="Live Football",sᴇʀɪᴇ ᴀ
 
-#EXTINF:-1 tvg-id="" tvg-name="AC MILAN" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/AC-MILAN.png" group-title="Seria A",AC MILAN
+#EXTINF:-1 tvg-id="" tvg-name="AC MILAN" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/AC-MILAN.png" group-title="Live Football",AC MILAN
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395510
-#EXTINF:-1 tvg-id="" tvg-name="ATALANTA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ATALANTA.png" group-title="Seria A",ATALANTA
+#EXTINF:-1 tvg-id="" tvg-name="ATALANTA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ATALANTA.png" group-title="Live Football",ATALANTA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395509
-#EXTINF:-1 tvg-id="" tvg-name="BOLOGNa" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BOLOGNa.png" group-title="Seria A",BOLOGNA
+#EXTINF:-1 tvg-id="" tvg-name="BOLOGNa" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BOLOGNa.png" group-title="Live Football",BOLOGNA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395508
-#EXTINF:-1 tvg-id="" tvg-name="CAGLIARI" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CAGLIARI.png" group-title="Seria A",CAGLIARI
+#EXTINF:-1 tvg-id="" tvg-name="CAGLIARI" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CAGLIARI.png" group-title="Live Football",CAGLIARI
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395507
-#EXTINF:-1 tvg-id="" tvg-name="EMPOLI" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EMPOLI.png" group-title="Seria A",EMPOLI
+#EXTINF:-1 tvg-id="" tvg-name="EMPOLI" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EMPOLI.png" group-title="Live Football",EMPOLI
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395506
-#EXTINF:-1 tvg-id="" tvg-name="FIORENTINA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FIORENTINA.png" group-title="Seria A",FIORENTINA
+#EXTINF:-1 tvg-id="" tvg-name="FIORENTINA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FIORENTINA.png" group-title="Live Football",FIORENTINA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395505
-#EXTINF:-1 tvg-id="" tvg-name="FROSINONE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FROSINONE.png" group-title="Seria A",FROSINONE
+#EXTINF:-1 tvg-id="" tvg-name="FROSINONE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/FROSINONE.png" group-title="Live Football",FROSINONE
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395504
-#EXTINF:-1 tvg-id="" tvg-name="GENOA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/GENOA.png" group-title="Seria A",GENOA
+#EXTINF:-1 tvg-id="" tvg-name="GENOA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/GENOA.png" group-title="Live Football",GENOA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395503
-#EXTINF:-1 tvg-id="" tvg-name="INTER MILAN" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/INTER-MILAN.png" group-title="Seria A",INTER MILAN
+#EXTINF:-1 tvg-id="" tvg-name="INTER MILAN" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/INTER-MILAN.png" group-title="Live Football",INTER MILAN
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395502
-#EXTINF:-1 tvg-id="" tvg-name="JUVENTUS" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/JUVENTUS.png" group-title="Seria A",JUVENTUS
+#EXTINF:-1 tvg-id="" tvg-name="JUVENTUS" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/JUVENTUS.png" group-title="Live Football",JUVENTUS
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395501
-#EXTINF:-1 tvg-id="" tvg-name="LAZIO" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/LAZIO.png" group-title="Seria A",LAZIO
+#EXTINF:-1 tvg-id="" tvg-name="LAZIO" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/LAZIO.png" group-title="Live Football",LAZIO
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395500
-#EXTINF:-1 tvg-id="" tvg-name="LECCE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/LECCE.png" group-title="Seria A",LECCE
+#EXTINF:-1 tvg-id="" tvg-name="LECCE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/LECCE.png" group-title="Live Football",LECCE
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395499
-#EXTINF:-1 tvg-id="" tvg-name="MONZA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MONZA.png" group-title="Seria A",MONZA
+#EXTINF:-1 tvg-id="" tvg-name="MONZA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MONZA.png" group-title="Live Football",MONZA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395498
-#EXTINF:-1 tvg-id="" tvg-name="NAPOLI" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NAPOLI.png" group-title="Seria A",NAPOLI
+#EXTINF:-1 tvg-id="" tvg-name="NAPOLI" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NAPOLI.png" group-title="Live Football",NAPOLI
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395497
-#EXTINF:-1 tvg-id="" tvg-name="ROMA" tvg-logo="http://103.176.90.118/picons/logos/ITALY/ROMA.png" group-title="Seria A",ROMA
+#EXTINF:-1 tvg-id="" tvg-name="ROMA" tvg-logo="http://103.176.90.118/picons/logos/ITALY/ROMA.png" group-title="Live Football",ROMA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395496
-#EXTINF:-1 tvg-id="" tvg-name="SALERNITANA" tvg-logo="http://103.176.90.118/picons/logos/ITALY/SALERNITANA.png" group-title="Seria A",SALERNITANA
+#EXTINF:-1 tvg-id="" tvg-name="SALERNITANA" tvg-logo="http://103.176.90.118/picons/logos/ITALY/SALERNITANA.png" group-title="Live Football",SALERNITANA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395494
-#EXTINF:-1 tvg-id="" tvg-name="SASSUOLO" tvg-logo="http://103.176.90.118/picons/logos/ITALY/SASSUOLO.png" group-title="Seria A",SASSUOLO
+#EXTINF:-1 tvg-id="" tvg-name="SASSUOLO" tvg-logo="http://103.176.90.118/picons/logos/ITALY/SASSUOLO.png" group-title="Live Football",SASSUOLO
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395495
-#EXTINF:-1 tvg-id="" tvg-name="TORINO" tvg-logo="http://103.176.90.118/picons/logos/ITALY/TORINO.png" group-title="Seria A",TORINO
+#EXTINF:-1 tvg-id="" tvg-name="TORINO" tvg-logo="http://103.176.90.118/picons/logos/ITALY/TORINO.png" group-title="Live Football",TORINO
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395493
-#EXTINF:-1 tvg-id="" tvg-name="UDINESE" tvg-logo="http://103.176.90.118/picons/logos/ITALY/UDINESE.png" group-title="Seria A",UDINESE
+#EXTINF:-1 tvg-id="" tvg-name="UDINESE" tvg-logo="http://103.176.90.118/picons/logos/ITALY/UDINESE.png" group-title="Live Football",UDINESE
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395492
-#EXTINF:-1 tvg-id="" tvg-name="VERONA" tvg-logo="http://103.176.90.118/picons/logos/ITALY/VERONA.png" group-title="Seria A",VERONA
+#EXTINF:-1 tvg-id="" tvg-name="VERONA" tvg-logo="http://103.176.90.118/picons/logos/ITALY/VERONA.png" group-title="Live Football",VERONA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395491
-
-
-# ---- France | Ligue 1 --------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 1" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 1
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688044
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 2" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 2
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688043
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 3" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 3
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688042
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 4" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 4
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688041
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 5" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 5
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688040
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 6" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 6
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688039
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 7" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 7
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688038
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 8" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 8
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688037
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 9" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 9
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688036
-#EXTINF:-1 tvg-id="" tvg-name="Ligue 1 | Match 10" tvg-logo="http://51.158.145.100/picons/logos/logos/Match.png" group-title="Ligue 1",Ligue 1 | Match 10
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1688035
 
 # ---- FINANCE ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -256,83 +262,207 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111540
 #EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG HD" tvg-logo="https://i.postimg.cc/6QqzmkqF/Bloomberg-TV-2.png" group-title="Finance",BLOOMBERG
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/49214
 
-#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK| CNBC" tvg-logo="https://i.postimg.cc/9XZbKtXX/CNBC-2.png" group-title="Finance",CNBC
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/164037
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="US| BLOOMBERG HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BLOOMBERG.png" group-title="Finance",US| BLOOMBERG HD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91936
+#EXTINF:-1 tvg-id="US-FOX HD Philadelphia" tvg-name="US| BLOOMBERG QUICKTAKE" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLOOMBERG-QUICKTAKE.png" group-title="Finance",Bloomberg Quicktake
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1453860
+#EXTINF:-1 tvg-id="Bloomberg.gr" tvg-name="4K| BLOOMBERG UHD" tvg-logo="http://103.176.90.118/picons/logos/logos/BLOOMBERG-HD.png" group-title="Finance",4K| BLOOMBERG UHD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1470604
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="PT| BLOOMBERG" tvg-logo="http://103.176.90.118/piconsnew/bloomberg.png" group-title="Finance",PT| BLOOMBERG
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/107512
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG EU" tvg-logo="http://103.176.90.118/picons/logos/UK/BLOOMBERG-1.png" group-title="Finance",UK| BLOOMBERG EU
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111540
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG HD" tvg-logo="http://103.176.90.118/picons/logos/UK/BLOOMBERG-1.png" group-title="Finance",UK| BLOOMBERG HD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/49214
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG HEVC" tvg-logo="http://103.176.90.118/picons/logos/UK/BLOOMBERG-1.png" group-title="Finance",UK| BLOOMBERG HEVC
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111549
+#EXTINF:-1 tvg-id="ca.BNN Bloomberg" tvg-name="CA| BNN HD" tvg-logo="http://103.176.90.118/picons/logos/USA/BNN.png" group-title="Finance",CA| BNN HD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/176798
+#EXTINF:-1 tvg-id="US-Fox Business" tvg-name="US| FOX BUSINESS NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/USA/FOX-BUSINESS-NETWORK.png" group-title="Finance",US| FOX BUSINESS NETWORK HD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45575
+#EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-name="US| CHEDDAR BUSINESS HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CHEDDAR-BUSINESS.png" group-title="Finance",US| CHEDDAR BUSINESS HD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91784
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US| CNBC HD" tvg-logo="https://i.postimg.cc/QdjMnKkn/CNBC.jpg" group-title="Finance",CNBC
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45593
+
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US| CNBC WORLD HD" tvg-logo="https://i.postimg.cc/cCym66hN/CNBC-1.jpg" group-title="Finance",CNBC WORLD
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91782
+
+#EXTINF:-1 tvg-id="" tvg-name="US| YAHOO FINANCE" tvg-logo="https://i.postimg.cc/0Npq6R8L/Yahoo-Finance.jpg" group-title="Finance",Yahoo! Finance
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1795752
 
 # ---- TESTs ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK| MTV FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MTV.png" group-title="General",MTV
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45326
-
-#EXTINF:-1 tvg-id="uk.MTV Live HD" tvg-name="UK| MTV LIVE FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MTV-LIVE.png" group-title="General",MTV [LIVE]
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45325
-#EXTINF:-1 tvg-id="VH1.uk" tvg-name="UK| VH1" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VH1.png" group-title="General",UK| VH1
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45234
-
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK| DISCOVERY SCIENCE" tvg-logo="http://103.176.90.118/picons/logos/UK/DISCOVERY-SD.png" group-title="General",UK| DISCOVERY SCIENCE
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45281
-#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK| DISCOVERY HISTORY" tvg-logo="http://103.176.90.118/picons/logos/UK/DISCOVERY-SD.png" group-title="General",UK| DISCOVERY HISTORY
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45283
-#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="UK| HISTORY FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/HISTORYHD-1.png" group-title="General",UK| HISTORY FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30534
-#EXTINF:-1 tvg-id="History2.uk" tvg-name="UK| HISTORY 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/HISTORY-2-1.png" group-title="General",UK| HISTORY 2 FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30535
-#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK| NAT GEO FHD" tvg-logo="http://103.176.90.118/picons/logos/UK/NATGEOWILD-1.png" group-title="General",UK| NAT GEO FHD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30526
-#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK| NAT GEO HD" tvg-logo="http://103.176.90.118/picons/logos/UK/NATGEOWILD-1.png" group-title="General",UK| NAT GEO HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1057011
 
 
-#EXTINF:-1 tvg-id="FashionTV.pt" tvg-name="PT| FASHION TV" tvg-logo="http://103.176.90.118/piconsnew/fashion.png" group-title="General",PT| FASHION TV
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/107480
-#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="US| E! ENTERTAINMENT HD" tvg-logo="http://103.176.90.118/picons/logos/logos/eentertainment.png" group-title="General",US| E! ENTERTAINMENT HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45584
-#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="UK| TRAVEL CHANNEL" tvg-logo="http://103.176.90.118/picons/logos/UK/THETRAVELCHANNEL.png" group-title="General",UK| TRAVEL CHANNEL
+
+
+
+
+
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="UK| TRAVEL CHANNEL" tvg-logo="https://i.postimg.cc/BZYMBLyg/Travel_XP.jpg" group-title="General",Travel XP
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79718
-#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="D+| FOOD NETWORK" tvg-logo="http://103.176.90.118/picons/logos/UK/FOODNETWORK.png" group-title="General",D+| FOOD NETWORK
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/549404
+
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="US| TRAVEL CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-CHANNEL-HD.png" group-title="General",Travel Channel
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45437
+
+#EXTINF:-1 tvg-id="US| TRAVEL CHANNEL WEST HD" tvg-name="US| TRAVEL CHANNEL WEST HD" tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-CHANNEL-HD.png" group-title="General",US| Travel Channel West
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91880
 
 
-#EXTINF:-1 tvg-id="W.uk" tvg-name="UK| W HD" tvg-logo="http://103.176.90.118/picons/logos/UK/W.png" group-title="General",UK| W HD
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/83056
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 1" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 1
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 1" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 1
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596285
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 2" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 2
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 2" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 2
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596284
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 3" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 3
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 3" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 3
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596283
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 4" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 4
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 4" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 4
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596282
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 5" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 5
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 5" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 5
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596281
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 6" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 6
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 6" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 6
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596280
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 7" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 7
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 7" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 7
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596279
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 8" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 8" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 8
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596278
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 9" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 9
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 9" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 9
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596277
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 10" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 10
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 10" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 10
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596276
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 11" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 11
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 11" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 11
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596275
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 12" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 12
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 12" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 12
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596274
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 13" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 13
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 13" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 13
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596273
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 14" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 14
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 14" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 14
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596272
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 15" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 15
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 15" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 15
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596271
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 16" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 16
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 16" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 16
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596270
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 17" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 17
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 17" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 17
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596269
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 18" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 18
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS | Event 18" tvg-logo="https://i.postimg.cc/nhvD20nB/TNT-Sports.jpg" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 18
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1596268
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 01" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 01
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014241
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 02" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 02
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014242
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 03" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 03
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014243
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 04" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 04
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014244
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 05" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 05
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014245
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 06" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 06
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014246
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 07" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 07
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014247
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 08" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 08
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014248
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 09" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 09
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014249
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 10" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 10
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014250
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 11" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 11
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014251
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 12" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 12
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014252
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 13" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 13
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014253
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 14" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 14
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014254
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 15" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 15
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014255
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 16" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 16
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014256
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 17" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 17
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014257
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 18" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 18
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014258
+#EXTINF:-1 tvg-id="" tvg-name="UK| SKY SPORTS RED BUTTON 19" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/sky-red.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 19
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014259
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 1 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 1 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387256
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 2 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 2 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387255
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 3 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 3 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387254
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 4 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 4 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387253
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 5 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 5 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387252
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 6 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 6 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387251
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 7 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 7 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387250
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 8 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 8 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387249
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 9 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 9 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387248
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 10 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 10 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387247
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 11 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 11 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387246
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 12 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 12 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387245
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 13 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 13 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387244
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 14 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 14 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387243
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 15 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 15 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387242
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 16 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 16 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387241
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 17 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 17 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387240
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 18 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 18 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387239
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 19 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 19 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387238
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 20 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 20 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387237
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 21 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 21 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387236
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 22 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 22 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387235
+#EXTINF:-1 tvg-id="" tvg-name="Vidio EPL 23 |" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio EPL 23 |
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387234
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 24" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 24
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387233
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 25" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 25
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387232
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 26" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 26
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387231
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 27" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 27
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387230
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 28" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 28
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387229
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 29" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 29
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387228
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 30" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 30
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387227
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 31" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 31
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387226
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 32" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 32
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387225
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 33" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 33
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387224
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 34" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 34
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387223
+#EXTINF:-1 tvg-id="" tvg-name="Vidio Live Events | 35" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/vidia.png" group-title="UK| VIDIO EPL PPV",Vidio Live Events | 35
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1387222
