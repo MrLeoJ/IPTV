@@ -89,6 +89,15 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/107480
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="D+| FOOD NETWORK" tvg-logo="https://i.postimg.cc/NfYBR0yp/Food-Network.png" group-title="General",Food Network
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/549404
 
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="UK| TRAVEL CHANNEL" tvg-logo="https://i.postimg.cc/BZYMBLyg/Travel_XP.jpg" group-title="General",Travel XP
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79718
+
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="US| TRAVEL CHANNEL HD" tvg-logo="https://i.postimg.cc/rp0nYS0c/Travel-Channel-1.jpg" group-title="General",Travel Channel
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45437
+
+#EXTINF:-1 tvg-id="US| TRAVEL CHANNEL WEST HD" tvg-name="US| TRAVEL CHANNEL WEST HD" tvg-logo="https://i.postimg.cc/P5FV46q2/Travel-Channel-2.png" group-title="General",US| Travel Channel West
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91880
+
 # ---- NEWS ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC News HD" tvg-logo="https://i.postimg.cc/76Q6ZszT/BBC-News.png" group-title="News",BBC News
@@ -118,8 +127,27 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30553
 #EXTINF:-1 tvg-id="" tvg-name="UK| RTE News NOW" tvg-logo="https://i.postimg.cc/XvtKDXTy/RTE_News.jpg" group-title="News",RTE News
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1014206
 
+# ---- FINANCE ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="Bloomberg.gr" tvg-name="4K| BLOOMBERG UHD" tvg-logo="https://i.postimg.cc/3wq95tDN/Bloomberg-TV-1.png" group-title="Finance",Bloomberg TV
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1470604
+
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US| CNBC WORLD HD" tvg-logo="https://i.postimg.cc/QdjMnKkn/CNBC.jpg" group-title="Finance",CNBC World
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91782
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US| CNBC HD" tvg-logo="https://i.postimg.cc/cCym66hN/CNBC-1.jpg" group-title="Finance",CNBC
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45593
+
+#EXTINF:-1 tvg-id="" tvg-name="US| YAHOO FINANCE" tvg-logo="https://i.postimg.cc/0Npq6R8L/Yahoo-Finance.jpg" group-title="Finance",Yahoo! Finance
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1795752
+
+#EXTINF:-1 tvg-id="US-FOX HD Philadelphia" tvg-name="US| BLOOMBERG QUICKTAKE" tvg-logo="https://i.postimg.cc/8z8VHPn7/Bloomberg-Originals.jpg" group-title="Finance",Bloomberg Originals
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1453860
+
+#EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-name="US| CHEDDAR BUSINESS HD" tvg-logo="https://i.postimg.cc/sXHkZVhD/Cheddar-Business.webp" group-title="Finance",US| Cheddar Business
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91784
+
 # ---- England | Premier League -----------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/Hxy88LJT/Premier-League.png" group-title="Live Football",ᴘʀᴇᴍɪᴇʀ ʟᴇᴀɢᴜᴇ
 
 #EXTINF:-1 tvg-id="" tvg-name="ARSENAL" tvg-logo="http://103.176.90.118/picons/logos/UK/EPL-ARSENAL.png" group-title="Live Football",ARSENAL
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988368
@@ -167,7 +195,6 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988351
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/988349
 
 # ---- Spain | La Liga --------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Live Football" tvg-logo="https://i.postimg.cc/Gp9yrKd8/La-Liga.jpg" group-title="Live Football",ʟᴀ ʟɪɢᴀ
 
 #EXTINF:-1 tvg-id="" tvg-name="ALAVES" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/ALAVES.png" group-title="Live Football",ALAVES
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395530
@@ -211,7 +238,6 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395512
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395511
 
 # ---- Italy | Serie A --------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="Live Football" tvg-logo="https://i.postimg.cc/zfMRfhGd/Serie-A.png" group-title="Live Football",sᴇʀɪᴇ ᴀ
 
 #EXTINF:-1 tvg-id="" tvg-name="AC MILAN" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/AC-MILAN.png" group-title="Live Football",AC MILAN
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395510
@@ -254,28 +280,43 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395492
 #EXTINF:-1 tvg-id="" tvg-name="VERONA" tvg-logo="http://103.176.90.118/picons/logos/ITALY/VERONA.png" group-title="Live Football",VERONA
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1395491
 
-# ---- FINANCE ------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="Bloomberg.gr" tvg-name="4K| BLOOMBERG UHD" tvg-logo="https://i.postimg.cc/3wq95tDN/Bloomberg-TV-1.png" group-title="Finance",Bloomberg TV
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1470604
-
-#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US| CNBC WORLD HD" tvg-logo="https://i.postimg.cc/QdjMnKkn/CNBC.jpg" group-title="Finance",CNBC World
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91782
-
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US| CNBC HD" tvg-logo="https://i.postimg.cc/cCym66hN/CNBC-1.jpg" group-title="Finance",CNBC
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45593
-
-#EXTINF:-1 tvg-id="" tvg-name="US| YAHOO FINANCE" tvg-logo="https://i.postimg.cc/0Npq6R8L/Yahoo-Finance.jpg" group-title="Finance",Yahoo! Finance
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1795752
-
-#EXTINF:-1 tvg-id="US-FOX HD Philadelphia" tvg-name="US| BLOOMBERG QUICKTAKE" tvg-logo="https://i.postimg.cc/8z8VHPn7/Bloomberg-Originals.jpg" group-title="Finance",Bloomberg Originals
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1453860
-
-#EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-name="US| CHEDDAR BUSINESS HD" tvg-logo="https://i.postimg.cc/sXHkZVhD/Cheddar-Business.webp" group-title="Finance",US| Cheddar Business
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91784
-
 # ---- TESTs ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Main Event
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30496
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Premier League
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30493
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Football
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30498
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Action
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30501
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Arena
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30500
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Cricket
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30502
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Darts
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30499
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Golf
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30497
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Mix
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30495
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports News
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/30494
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Racing
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/77373
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZrtwjxv/Sky-Sports.png" group-title="Sports",Sky Sports Tennis
+http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1454232
 
 
 
@@ -283,14 +324,8 @@ http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91784
 
 
 
-#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="UK| TRAVEL CHANNEL" tvg-logo="https://i.postimg.cc/BZYMBLyg/Travel_XP.jpg" group-title="General",Travel XP
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/79718
 
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="US| TRAVEL CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-CHANNEL-HD.png" group-title="General",Travel Channel
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/45437
 
-#EXTINF:-1 tvg-id="US| TRAVEL CHANNEL WEST HD" tvg-name="US| TRAVEL CHANNEL WEST HD" tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-CHANNEL-HD.png" group-title="General",US| Travel Channel West
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/91880
 
 
 
