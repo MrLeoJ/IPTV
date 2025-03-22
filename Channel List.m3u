@@ -77,12 +77,6 @@ https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/9717159c-0672-4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfYBR0yp/Food-Network.png" group-title="General",Food Network
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/a970cdff-ae8f-444e-9082-d7f88b948001.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfYBR0yp/Food-Network.png" group-title="General",Food Network West
-https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/0b29fcc2-4c74-4cbc-9949-85f8d330db6d.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfYBR0yp/Food-Network.png" group-title="General",Food Network East
-https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/812a07ac-6a5b-4daa-95b8-06862f98c5cc.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZYMBLyg/Travel_XP.jpg" group-title="General",Travel XP
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/cf709d47-5c19-4216-ae35-10868d110b29.m3u8
 
@@ -106,9 +100,6 @@ https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/2a87a370-d94a-4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vm4Lz5Ss/Talk_TV.jpg" group-title="News",Talk TV
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/92f7e728-18be-40d8-83f6-2c6bd6979256.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4CzsK37/Euro_News.jpg" group-title="News",EuroNews
-https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/95a2691b-46e0-4ebc-8f44-3179476d91d9.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9mRpQ13/Al-Jazeera.jpg" group-title="News",Al Jazeera
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/462d8e36-e3c2-4d93-b26c-0b7060285b5a.m3u8
 
@@ -120,14 +111,8 @@ https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/75d801ae-2af8-4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wq95tDN/Bloomberg-TV-1.png" group-title="Finance",Bloomberg TV
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/8611d537-27c9-49b5-89f1-6af1c3db33aa.m3u8
 
-#EXTINF:-1,UK: Bloomberg 4k
-https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/be65aa0c-dbec-4b70-ae05-070cfa27f8f8.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdjMnKkn/CNBC.jpg" group-title="Finance",CNBC
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/7ed4042f-7133-4910-9c32-6a93fc4955fa.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Npq6R8L/Yahoo-Finance.jpg" group-title="Finance",Yahoo! Finance
-https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/2ac94e71-2929-4c49-aead-a11cc2bf1cc1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6qP2rg2P/Fox-Business-Network.jpg" group-title="Finance",Fox Business Network
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/205b2d87-a8c0-4c02-9538-07abc027cfca.m3u8
