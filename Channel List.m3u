@@ -86,6 +86,9 @@ https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/bc63f590-f990-4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5FV46q2/Travel-Channel-2.png" group-title="General",US| Travel Channel East
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/051096eb-36f4-4585-9cb3-3c3238790bf6.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCJvKtPw/Fashion-TV.png" group-title="General",Fashion TV
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/26d931e0-ad39-4f02-9143-ab84d1139afe.m3u8
+
 # ---- NEWS ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76Q6ZszT/BBC-News.png" group-title="News",BBC News
@@ -755,10 +758,8 @@ https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/46486e44-7277-4
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/d23848c2-c731-43cb-8bb1-153c6be95dc5.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",PT: Eurosport 2 HD
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/126a1ac6-ac28-417c-95a9-b1ba6aadaf2f.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",PT: Fashion TV
-https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/26d931e0-ad39-4f02-9143-ab84d1139afe.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",PT: Fight Network HD
-https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/5387807c-39d1-41cf-a907-1e045dedd545.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",PT: sport.tv 1
@@ -836,3 +837,35 @@ https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/5e31b77c-4b07-4
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/5a52f7f3-f65c-4447-b2e4-53cf40057c71.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",ES: LaLiga+ 15
 https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/705bd92a-9b1e-42c9-bf67-5ffa74e18f36.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC FIGHTPASS 24/7
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/fa319c36-0a4c-4367-90ed-162a0de76bc4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC 10
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/ca8c3d8f-0c55-4688-bb1d-1558309ed5f0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC 01
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/62ec2026-f51c-46f2-b2fc-014b1b529c93.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC 02
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/e22514dd-33a0-45cc-9825-7d5937d1ecb5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC 03
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/67f5b94b-f60e-4e1e-9fbe-1869177e952f.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC 04
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/4aa46c13-388e-45f9-9147-2a534ae17fd3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC 05
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/67c4a90f-1d2a-40bc-8094-eacebab0e62a.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC 06
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/f1b6477c-2f36-4861-b5b0-0c45c72f0d0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC 07
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/2623792f-189c-41a1-a25d-88357952e545.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC 08
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/ae69bfa4-f036-440b-bd8d-7fb30b574047.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",UFC 09
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/940235f0-20f8-42c1-97a9-6b07d9d753ca.m3u8
+#EXTINF:-1,BR: UFC Fight Pass HD
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/b1b2dbc3-6495-4ba4-a477-cda44900357d.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfnkcW7h/Test.jpg" group-title="TEST",PT: Fight Network HD
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/5387807c-39d1-41cf-a907-1e045dedd545.m3u8
+
