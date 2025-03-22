@@ -2,8 +2,11 @@
 
 # ---- General ----
 
-#EXTINF:-1 tvg-id="uk.BBC1 London" tvg-name="UK| BBC ONE LONDON" tvg-logo="https://i.postimg.cc/K8nRDD6d/BBC-One.png" group-title="General",BBC One
-http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/1458572
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8nRDD6d/BBC-One.png" group-title="General, Favorites",BBC One
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/753b3991-8ab7-4c00-96ff-337459681713.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8nRDD6d/BBC-One.png" group-title="General, Favorites",BBC One
+https://ibackup-01.com/live/TV-17618845059123/434100827517/753b3991-8ab7-4c00-96ff-337459681713.m3u8
 
 #EXTINF:-1 tvg-id="uk.BBC2 N Ireland" tvg-name="UK| BBC TWO HD" tvg-logo="https://i.postimg.cc/k45G932m/BBC-Two.png" group-title="General",BBC Two
 http://line.myox.me:80/3ht59wv20c/v2uvloz6bd/111559
