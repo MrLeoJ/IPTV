@@ -64,64 +64,6 @@ https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 
 # LIFESTYLE ----------------------------------------------------------------------------------------------------------------------------------
 
-# BBC One
-#EXTINF:-1 tvg-logo="https://bit.ly/47NKUE2" group-title="Lifestyle", BBC One
-http://92.114.85.81:8000/play/a001/index.m3u8
 
-# BBC Two
-#EXTINF:-1 tvg-logo="https://bit.ly/3Tjq1Nh" group-title="Lifestyle", BBC Two
-http://92.114.85.81:8000/play/a011/index.m3u8
-
-# BBC Three
-#EXTINF:-1 tvg-logo="https://bit.ly/3uAVrUO" group-title="Lifestyle", BBC Three
-https://tinyurl.com/bdhzye8z
-
-# BBC Four
-#EXTINF:-1 tvg-logo="https://bit.ly/3SWV29t" group-title="Lifestyle", BBC Four
-https://tinyurl.com/2akru22z
-
-# ITV 1
-#EXTINF:-1 tvg-logo="https://bit.ly/3PnMViz" group-title="Lifestyle", ITV 1
-http://92.114.85.81:8000/play/a00y/index.m3u8
-
-# ITV 2
-#EXTINF:-1 tvg-logo="https://bit.ly/3sYDLBO" group-title="Lifestyle", ITV 2
-http://92.114.85.77:8000/play/a041
-
-# ITV 3
-#EXTINF:-1 tvg-logo="https://bit.ly/3PkQINQ" group-title="Lifestyle", ITV 3
-http://92.114.85.77:8000/play/a04z
-
-# ITV 4
-#EXTINF:-1 tvg-logo="https://bit.ly/46jyS4J" group-title="Lifestyle", ITV 4
-http://92.114.85.77:8000/play/a05z
-
-# Channel 4 
-#EXTINF:-1 tvg-logo="https://bit.ly/4a7Teka" group-title="Lifestyle", Channel 4
-http://92.114.85.77:8000/play/a0b9
-
-# More 4
-#EXTINF:-1 tvg-logo="https://bit.ly/3rqCWRE" group-title="Lifestyle", More 4
-http://92.114.85.81:8000/play/a03p/index.m3u8
-
-# E4
-#EXTINF:-1 tvg-logo="https://bit.ly/3Gi1xw7" group-title="Lifestyle", E4
-http://92.114.85.81:8000/play/a02c/index.m3u8
-
-# E4 Extra
-#EXTINF:-1 tvg-logo="https://bit.ly/3uGR8qY" group-title="Lifestyle", E4 Extra
-http://92.114.85.81:8000/play/a03r/index.m3u8
-
-# Channel 5
-#EXTINF:-1 tvg-logo="https://bit.ly/3t4pwv5" group-title="Lifestyle", Channel 5
-http://92.114.85.81:8000/play/a01g/index.m3u8
-
-# Dave
-#EXTINF:-1 tvg-logo="https://bit.ly/46jFhgh" group-title="Lifestyle", Dave
-http://92.114.85.81:8000/play/a044/index.m3u8
-
-# Travel XP
-#EXTINF:-1 tvg-logo="https://bit.ly/3VVy3cs" group-title="Lifestyle",Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 # TEMPORARY -------------------------------------------------------------------------------------------------------------------------------------
