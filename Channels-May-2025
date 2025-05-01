@@ -62,8 +62,12 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/461HVaw" group-title="Finance",Bloomberg Originals
 https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 
-# LIFESTYLE ----------------------------------------------------------------------------------------------------------------------------------
+# GENERAL ----------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCJvKtPw/Fashion-TV.png" group-title="General",Fashion TV
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/26d931e0-ad39-4f02-9143-ab84d1139afe.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCJvKtPw/Fashion_TV.png" group-title="General",Fashion TV
+https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/9717159c-0672-4988-a31f-967ece31fa78.m3u8
 
 # TEMPORARY -------------------------------------------------------------------------------------------------------------------------------------
