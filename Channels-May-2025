@@ -12,9 +12,6 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3PpZHyv" group-title="News",Talk TV
 https://tinyurl.com/3j2jvd2x
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGInWY5NqAdwf25hydl8yex5nuT7vcEqmoT4VKSyiDNLm3=s176-c-k-c0x00ffffff-no-rj" group-title="International News",Reuters
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
-
 # DW News
 #EXTINF:-1 tvg-logo="https://bit.ly/3Pdo95w" group-title="News",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -43,10 +40,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 # GENERAL ----------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCJvKtPw/Fashion-TV.png" group-title="General",Fashion TV
-https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/26d931e0-ad39-4f02-9143-ab84d1139afe.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCJvKtPw/Fashion_TV.png" group-title="General",Fashion TV
-https://trial.ibackup-01.com/live/TV-17618845059123/434100827517/9717159c-0672-4988-a31f-967ece31fa78.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Travel",Travel XP GB
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 
 # TEMPORARY -------------------------------------------------------------------------------------------------------------------------------------
