@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/45FcYIt" group-title="News",BBC News
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRrh308K/Sky-News.jpg" group-title="News",Sky News
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
 # GB News
 #EXTINF:-1 tvg-logo="https://bit.ly/3GY8vaN" group-title="News",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
@@ -11,9 +14,6 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 # Talk TV
 #EXTINF:-1 tvg-logo="https://bit.ly/3PpZHyv" group-title="News",Talk TV
 https://tinyurl.com/3j2jvd2x
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLGJzsCC/Reuters.jpg" group-title="News",Reuters
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 # DW News
 #EXTINF:-1 tvg-logo="https://bit.ly/3Pdo95w" group-title="News",DW News
@@ -47,3 +47,11 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 
 # TEMPORARY -------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 group-title="TEST", BUSINESS TODAY
+https://raw.githubusercontent.com/vijay6672/YT2M3U/main/assets/moose_na.m3u
+
+#EXTINF:-1 tvg-id="514.astro" tvg-logo="https://iili.io/JhkslMx.png" group-title="NATIONAL NEWS",Sky News
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00033f7dcc4fa16f91a862f6d8420902:50cfec3c8d2bf51d41cce44f74781edf
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
